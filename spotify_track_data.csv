@@ -1,0 +1,603 @@
+id,name,artist,valence,energy,danceability,tempo,genres,duration (ms),explicit,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,mood
+331l3xABO0HMr1Kkyh2LZq,I Don't Wanna Wait,David Guetta,0.554,0.714,0.681,129.976,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",149668,False,1,-4.617,0,0.0309,0.0375,0.0,0.232,Happy
+3aoZg6tWk6oV6FdtQkyNmt,Love Me Now (feat. Zoe Wees),Kygo,0.511,0.485,0.664,102.03,"['edm', 'pop', 'pop dance', 'tropical house']",195880,False,5,-7.017,1,0.0484,0.163,0.0,0.192,Happy
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,0.304,0.965,0.561,128.04,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",175238,True,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,Happy
+4QfikoJtCEiOj7G5R9m3sP,For Life (feat. Nile Rodgers),Kygo,0.585,0.791,0.571,122.085,"['edm', 'pop', 'pop dance', 'tropical house']",175803,False,1,-5.935,1,0.0741,0.0494,0.0,0.0612,Happy
+7j57nadsCph2KI9eYuaum8,The Hard Way,PNAU,0.657,0.906,0.691,119.978,"['alternative dance', 'aussietronica', 'australian dance', 'australian electropop']",183926,False,0,-4.458,1,0.171,0.072,0.0,0.299,Happy
+2uqYupMHANxnwgeiXTZXzd,Austin (Boots Stop Workin'),Dasha,0.739,0.672,0.756,114.935,[],171783,True,0,-6.743,1,0.0522,0.464,3.37e-06,0.108,Happy
+5KW4qNLjWeh7rMbxCfg89N,Without You (with HAYLA),Kygo,0.0674,0.681,0.269,85.365,"['edm', 'pop', 'pop dance', 'tropical house']",263880,False,9,-5.51,0,0.0473,0.0336,0.0,0.0927,Happy
+0FDzzruyVECATHXKHFs9eJ,A Sky Full of Stars,Coldplay,0.162,0.675,0.545,124.97,"['permanent wave', 'pop']",267867,False,6,-6.474,1,0.0279,0.00617,0.00197,0.209,Happy
+0LMwmV37RCmBO2so0szAFs,Whatever,Kygo,0.589,0.777,0.58,108.005,"['edm', 'pop', 'pop dance', 'tropical house']",178273,False,3,-5.69,1,0.0655,0.104,0.0,0.342,Happy
+3t7MOVjzXyqT7vPw4eNrAV,Been Like This,Meghan Trainor,0.783,0.712,0.709,120.004,"['hip pop', 'pop']",145765,False,5,-4.671,0,0.0755,0.235,0.0,0.314,Happy
+1mCsF9Tw4AkIZOjvZbZZdT,Break My Stride,Matthew Wilder,0.828,0.588,0.917,110.077,['new wave pop'],184480,False,10,-11.047,1,0.0607,0.195,0.0,0.0914,Happy
+2LCd6P35jFyZ9SN37o9D2q,Drinkin',Joel Corry,0.707,0.963,0.716,124.97,"['dance pop', 'pop dance', 'uk dance']",149546,False,0,-3.097,0,0.0931,0.0344,0.0,0.292,Happy
+0h3Xy4V4apMraB5NuM8U7Z,Stumblin' In,CYRIL,0.37,0.518,0.875,126.089,[],213364,False,2,-8.388,1,0.0551,0.0638,0.00995,0.125,Happy
+1ZDOSXroOASzNuoI3d4YGx,Let Her Go - Lost Coconut Remix,Dual Sessions,0.281,0.512,0.708,120.021,"['bossa nova cover', 'coverchill', 'reggae cover']",179625,False,11,-11.976,1,0.0375,0.624,0.00358,0.202,Happy
+4UkUxO2WlKLc0Q1iEutGGh,CONTIGO (with Tiësto),KAROL G,0.293,0.562,0.85,122.029,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",192787,False,5,-7.863,1,0.0724,0.169,3.23e-06,0.104,Happy
+1xfj8i1OvEhqJmWncOV2d5,June,Thierry Von Der Warth,0.586,0.739,0.684,120.009,['tropical house'],163573,False,5,-6.298,1,0.0444,0.0452,6.3e-06,0.646,Happy
+5ub9lmkNjDKBtDqWs22WI7,How Many Tears (feat. Emily Warren),Kygo,0.504,0.666,0.551,115.033,"['edm', 'pop', 'pop dance', 'tropical house']",174373,False,7,-7.371,1,0.109,0.131,0.0,0.179,Happy
+7221xIgOnuakPdLqT0F3nP,I Had Some Help (Feat. Morgan Wallen),Post Malone,0.731,0.855,0.638,127.986,"['dfw rap', 'melodic rap', 'pop', 'rap']",178206,True,7,-4.86,1,0.0264,0.00757,0.0,0.245,Happy
+5OFVzqSeFxGpvDGyHvVeLj,It's Not Right But It's Okay,Mr. Belt & Wezol,0.618,0.86,0.755,128.004,['dutch edm'],152305,False,5,-4.811,0,0.0523,0.0144,7.47e-06,0.344,Happy
+1bHnRc60O1N0l3PbHjaKyK,Better Place (From TROLLS Band Together),*NSYNC,0.558,0.556,0.579,116.943,"['boy band', 'dance pop', 'pop']",216667,False,4,-6.277,0,0.0511,0.0214,0.0,0.0904,Happy
+6DXLO8LndZMVOHM0wNbpzg,Danza Kuduro,Don Omar,0.888,0.917,0.7,130.04,"['latin hip hop', 'puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",198787,False,0,-4.897,1,0.115,0.0773,0.0,0.065,Happy
+3xIMkM5LgbVDkpO74O3Np3,Rush,Troye Sivan,0.402,0.841,0.728,125.991,"['australian pop', 'pop', 'viral pop']",156391,True,10,-7.682,0,0.0567,0.00242,9.09e-05,0.106,Happy
+5wtSei6pJpDEB1iKqPHhfU,Houdini,Dua Lipa,0.872,0.791,0.744,116.981,"['dance pop', 'pop', 'uk pop']",185918,False,9,-4.878,0,0.0586,0.00368,0.00171,0.0944,Happy
+16vUeW77F6Xiz1irHBvTAM,Say Say Say (feat. Paul McCartney & Michael Jackson),Kygo,0.407,0.717,0.735,117.959,"['edm', 'pop', 'pop dance', 'tropical house']",175151,False,10,-5.613,0,0.0602,0.0624,0.0,0.103,Happy
+2aGi8MHh1WR0le7LEqzEga,Talk About Us,Thierry Von Der Warth,0.914,0.767,0.745,120.047,['tropical house'],137695,False,9,-5.383,0,0.0541,0.471,0.0,0.457,Happy
+4FWbsd91QSvgr1dSWwW51e,TRUSTFALL,P!nk,0.25,0.888,0.636,122.032,"['dance pop', 'pop']",237200,False,8,-3.889,1,0.0945,0.00162,0.000216,0.147,Happy
+1oew3nFNY3vMacJAsvry0S,Me And My Broken Heart,Rixton,0.551,0.783,0.545,174.084,"['post-teen pop', 'talent show', 'teen pop', 'viral pop']",193733,False,5,-4.261,0,0.0345,0.00489,0.0,0.132,Happy
+1vYXt7VSjH9JIM5oRRo7vA,Dance The Night - From Barbie The Album,Dua Lipa,0.775,0.845,0.671,110.056,"['dance pop', 'pop', 'uk pop']",176579,False,11,-4.93,0,0.048,0.0207,0.0,0.329,Happy
+2GxrNKugF82CnoRFbQfzPf,i like the way you kiss me,Artemas,0.747,0.946,0.599,151.647,[],142515,False,11,-4.263,1,0.0447,0.000938,0.0106,0.0826,Happy
+5aIVCx5tnk0ntmdiinnYvw,Water,Tyla,0.519,0.722,0.673,117.187,[],200256,False,3,-3.495,0,0.0755,0.0856,0.0,0.137,Happy
+0Z7nGFVCLfixWctgePsRk9,TEXAS HOLD 'EM,Beyoncé,0.375,0.711,0.727,110.012,"['pop', 'r&b']",233457,True,2,-6.549,1,0.078,0.582,0.0,0.158,Happy
+07fbDnkKdZGk1gLvknxrns,RUNAWAY,OneRepublic,0.766,0.691,0.629,163.065,"['piano rock', 'pop']",143265,False,3,-5.512,0,0.0513,0.0258,0.0,0.0615,Happy
+2UrKwpJwcoOlYZpooWD1hY,Training Season,Dua Lipa,0.664,0.587,0.812,123.041,"['dance pop', 'pop', 'uk pop']",209488,False,5,-4.483,0,0.0477,0.0349,2.55e-06,0.124,Happy
+6iF4RgIjDvDqyW13PezSj3,Single Soon,Selena Gomez,0.747,0.571,0.61,105.01,"['pop', 'post-teen pop']",171655,False,2,-5.649,1,0.0782,0.00863,0.0,0.131,Happy
+1Lo0QY9cvc8sUB2vnIOxDT,Fast Car,Luke Combs,0.67,0.603,0.712,97.994,"['contemporary country', 'country']",265493,False,8,-5.52,1,0.0262,0.186,0.0,0.115,Happy
+6usohdchdzW9oML7VC4Uhk,Lose Control,Teddy Swims,0.242,0.604,0.561,159.92,[],210689,False,9,-4.409,1,0.0337,0.199,1.9e-05,0.104,Happy
+76OGwb5RA9h4FxQPT33ekc,SNAP,Rosa Linn,0.525,0.636,0.565,170.01,['alt z'],179551,False,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,Happy
+6tNQ70jh4OwmPGpYy6R2o9,Beautiful Things,Benson Boone,0.219,0.471,0.472,105.029,['singer-songwriter pop'],180304,False,10,-5.692,1,0.0603,0.151,0.0,0.14,Happy
+5o4XJKRxUK6nXhFLAIS33A,Gimme Love,Sia,0.311,0.82,0.327,96.479,"['australian dance', 'australian pop', 'pop']",177922,False,11,-2.591,1,0.0465,0.0037,0.000876,0.614,Happy
+7gaA3wERFkFkgivjwbSvkG,"yes, and?",Ariana Grande,0.787,0.775,0.787,118.998,['pop'],214994,True,1,-6.614,1,0.0548,0.19,6.54e-05,0.113,Happy
+6JV2JOEocMgcZxYSZelKcc,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,0.702,0.83,0.666,113.03,"['dance pop', 'pop']",236002,False,0,-5.715,1,0.0751,0.0123,0.0,0.191,Happy
+0QHEIqNKsMoOY5urbzN48u,Made You Look,Meghan Trainor,0.854,0.522,0.834,145.035,"['hip pop', 'pop']",134256,False,10,-3.574,1,0.0703,0.34,1.59e-06,0.0783,Happy
+3rUGC1vUpkDG9CZFHMur1t,greedy,Tate McRae,0.816,0.729,0.749,111.004,['pop'],131872,True,6,-3.19,0,0.0321,0.261,0.0,0.113,Happy
+3BKD1PwArikchz2Zrlp1qi,Baby Don't Hurt Me,David Guetta,0.228,0.91,0.602,127.944,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",140018,False,7,-3.404,1,0.0308,0.00126,0.000174,0.12,Happy
+0SiywuOBRcynK0uKGWdCnn,Bad Romance,Lady Gaga,0.714,0.921,0.695,119.007,"['art pop', 'dance pop', 'pop']",294573,True,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,Happy
+3eJH2nAjvNXdmPfBkALiPZ,Acapulco,Jason Derulo,0.507,0.792,0.774,122.062,"['dance pop', 'pop']",139672,False,10,-4.021,1,0.0523,0.051,0.0,0.155,Happy
+4xhsWYTOGcal8zt0J161CU,Lovin On Me,Jack Harlow,0.606,0.558,0.943,104.983,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",138411,True,2,-4.911,1,0.0568,0.0026,2.19e-06,0.0937,Happy
+31ZO9XuKt48Qb2eUTBynd2,Carry You,Martin Garrix,0.352,0.737,0.505,126.992,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",215905,False,0,-5.608,0,0.0405,0.0825,0.0,0.0807,Happy
+5eTaQYBE1yrActixMAeLcZ,Miracle (with Ellie Goulding),Calvin Harris,0.306,0.869,0.636,143.011,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",186496,False,9,-5.289,1,0.0412,0.0378,0.0446,0.0808,Happy
+5Jpz4nv8nA6FIYO5gEyQa2,Alibi (feat. Rudimental),Ella Henderson,0.411,0.793,0.545,87.024,"['dance pop', 'pop dance', 'talent show', 'uk pop']",184852,False,0,-3.615,0,0.0371,0.191,0.00281,0.335,Happy
+5u4hhtZ7f4rWkMZEZcTKrH,Relax My Eyes,ANOTR,0.908,0.616,0.747,131.975,['dutch tech house'],192151,False,3,-9.76,0,0.0324,0.176,0.116,0.143,Happy
+73vIOb4Q7YN6HeJTbscRx5,Miss You,Oliver Tree,0.199,0.742,0.587,145.007,['alternative hip hop'],206000,True,6,-6.64,0,0.0529,0.0128,0.00107,0.146,Happy
+0CVXJyYIQPnZE2kAHdx2DP,Dive,Lost Frequencies,0.676,0.726,0.696,123.02,"['belgian edm', 'edm', 'pop dance', 'tropical house']",162354,False,5,-7.751,0,0.0287,0.0758,1.41e-05,0.138,Happy
+5E6bTiJ2rB18M1DNqkm1V4,Never Gonna Not Dance Again,P!nk,0.769,0.802,0.668,113.796,"['dance pop', 'pop']",225789,True,5,-4.005,0,0.0917,0.0273,0.0,0.163,Happy
+2pjZHO3zZOa9qqs1DlfWyk,Easy To See,Graystar,0.379,0.67,0.681,114.008,[],203947,False,5,-5.415,1,0.0466,0.356,0.0,0.308,Happy
+6W9qtw3ddhkYznaOxB50p8,The Feeling,Lost Frequencies,0.36,0.724,0.652,131.97,"['belgian edm', 'edm', 'pop dance', 'tropical house']",153450,False,7,-8.315,1,0.113,0.448,0.0,0.0908,Happy
+1TytykMo9zFzNdRbqTxfep,Feels This Good,Sigala,0.627,0.917,0.629,124.024,"['dance pop', 'edm', 'pop dance', 'uk dance']",190609,True,6,-2.095,0,0.0964,0.0273,0.0,0.521,Happy
+2MpFCF1yKrQ1XgvW1pPZ2B,Desire (with Sam Smith),Calvin Harris,0.509,0.924,0.587,140.009,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",179162,False,11,-5.433,0,0.0457,0.0311,0.0171,0.23,Happy
+3ec1mgb7R6yhRvzp3DaTus,All For Love,Felix Jaehn,0.185,0.736,0.573,126.014,"['edm', 'german dance', 'pop dance', 'tropical house', 'uk dance']",166667,False,11,-6.882,1,0.0435,0.0616,0.0,0.508,Happy
+09rAJ1Q1NNJSaUKEW3X9P6,Crying On The Dancefloor,Sam Feldt,0.33,0.796,0.627,125.99,"['edm', 'pop dance', 'tropical house']",173009,False,10,-5.192,1,0.08,0.116,0.0,0.109,Happy
+1ZZUE6YNh90P3SCnsHPKNq,Never Really Loved Me (with Dean Lewis),Kygo,0.221,0.642,0.618,118.005,"['edm', 'pop', 'pop dance', 'tropical house']",202160,False,1,-5.472,1,0.0447,0.254,0.0,0.126,Happy
+0yLdNVWF3Srea0uzk55zFn,Flowers,Miley Cyrus,0.646,0.681,0.707,117.999,['pop'],200455,False,0,-4.325,1,0.0668,0.0632,5.15e-06,0.0322,Happy
+1r8ZCjfrQxoy2wVaBUbpwg,Thousand Miles,The Kid LAROI,0.203,0.657,0.376,80.565,['australian hip hop'],164782,True,7,-4.658,1,0.0768,0.0858,0.0,0.0884,Happy
+2rmwqU7yzTvzkiaRV53DpT,2 Be Loved (Am I Ready),Lizzo,0.915,0.769,0.721,155.932,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",187108,False,7,-4.111,1,0.105,0.0922,0.0,0.0817,Happy
+1kIu9zpYtWjgrLlsactlna,Jump (Original Mix),The Pointer Sisters,0.813,0.826,0.846,134.454,"['disco', 'girl group', 'hi-nrg', 'motown', 'new wave pop', 'soft rock']",262560,False,10,-7.909,0,0.098,0.0867,0.0,0.12,Happy
+48mZshEcMsdsynXdmdn0mU,Body Talks,Burak Yeter,0.652,0.807,0.763,125.985,['electro house'],173086,False,1,-4.786,1,0.0402,0.0186,0.0,0.176,Happy
+7oGMrh7oyZjpOKQ3XQy1wn,Say Say Say - Lost Coconut Remix,Eve St. Jones,0.469,0.584,0.722,114.022,"['coverchill', 'jazz cover']",190526,False,10,-9.589,0,0.0417,0.0725,3.02e-05,0.236,Happy
+5Hp4xFihdOE2dmDzxWcBFb,All By Myself,Alok,0.726,0.863,0.618,123.041,"['electro house', 'pop nacional', 'slap house']",171747,False,0,-4.049,0,0.0409,0.0788,0.0,0.134,Happy
+7F2iJPeYXWaZZMa5H9biyM,Amazing,Fabio Vee,0.27,0.77,0.744,121.977,['chill house'],160328,False,6,-5.989,0,0.0425,0.00407,0.271,0.0991,Happy
+3UZDl7g2r84o1b5marUjfK,My Stupid Heart,Walk off the Earth,0.655,0.682,0.75,115.077,"['canadian rock', 'pop rock']",160867,True,7,-8.257,1,0.0345,0.0799,0.0,0.199,Happy
+6Pgkp4qUoTmJIPn7ReaGxL,Without You (feat. Sandro Cavazza),Avicii,0.295,0.858,0.662,133.993,"['dance pop', 'edm', 'pop', 'pop dance']",181673,True,2,-4.844,1,0.0428,0.00163,0.0,0.0456,Happy
+6PX5CRJFn24G3cypjNO6yw,Work With My Love,Alok,0.639,0.848,0.618,123.967,"['electro house', 'pop nacional', 'slap house']",150484,False,6,-4.329,0,0.0574,0.0028,0.000714,0.302,Happy
+7KoUk2BFyV8HkocdHMUNTw,One Last Time (with R3HAB) (feat. Enny-Mae),VIZE,0.858,0.531,0.923,119.985,"['german dance', 'hypertechno', 'slap house']",155098,False,11,-7.525,0,0.0481,0.64,0.0174,0.121,Happy
+07QIetdCyAEox3Q5qqJT43,Woke Up in Love,Kygo,0.178,0.586,0.649,106.031,"['edm', 'pop', 'pop dance', 'tropical house']",216880,False,2,-5.998,1,0.0385,0.234,0.0,0.0936,Happy
+4nrPB8O7Y7wsOCJdgXkthe,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,0.53,0.745,0.842,122.06,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",214945,False,2,-4.231,0,0.0399,0.281,2.61e-05,0.118,Happy
+4h4QlmocP3IuwYEj2j14p8,Sunroof,Nicky Youre,0.842,0.714,0.768,131.443,['singer-songwriter pop'],163026,False,10,-5.11,1,0.0401,0.352,0.0,0.15,Happy
+47Slg6LuqLaX0VodpSCvPt,Just the Way You Are,Bruno Mars,0.424,0.841,0.635,109.021,"['dance pop', 'pop']",220734,False,5,-5.379,1,0.0422,0.0134,0.0,0.0622,Happy
+5lfWrciYtohtIMVDVZd0Rf,"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",Calvin Harris,0.9,0.733,0.81,125.975,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",229283,False,9,-6.338,1,0.0444,0.276,6.73e-06,0.288,Happy
+5THQw2QDTWwOP1Hj543Rb2,Fading Like A Flower,Roxette,0.908,0.901,0.701,121.022,"['europop', 'swedish pop', 'synthpop']",145808,False,5,-4.34,1,0.046,0.018,1.08e-06,0.0665,Happy
+0qJdWQ2KZ8Apvcr6dmjMs6,Crushed Me with Your Love,Fason,0.465,0.733,0.609,110.063,['chill house'],176250,False,7,-5.47,1,0.0639,0.0905,0.0,0.135,Happy
+4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,0.825,0.797,0.704,139.994,"['piano rock', 'pop']",148486,False,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,Happy
+0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema,0.802,0.806,0.801,106.999,"['afrobeats', 'nigerian pop']",239318,False,11,-5.206,1,0.0381,0.382,0.000669,0.114,Happy
+5tXDj9RcCvE0G7sWLlLZDB,Fever (feat. Lukas Graham),Kygo,0.521,0.784,0.761,120.074,"['edm', 'pop', 'pop dance', 'tropical house']",192973,False,2,-6.435,0,0.044,0.298,8.22e-05,0.111,Happy
+0sBJA2OCEECMs0HsdIQhvR,West Coast,OneRepublic,0.884,0.699,0.685,134.057,"['piano rock', 'pop']",192948,False,6,-7.803,0,0.0349,0.317,0.0,0.0895,Happy
+3Ds1rReoW8ixyfCTe2R0zR,The Way We Were (feat. Plested),Kygo,0.256,0.589,0.595,122.037,"['edm', 'pop', 'pop dance', 'tropical house']",248973,False,2,-6.961,1,0.0452,0.198,0.0,0.103,Happy
+7nhTJJi2DYRYfQthsIJ5zM,High Heels - Whistle While You Twerk,Flo Rida,0.876,0.803,0.867,120.028,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",162000,False,1,-7.732,1,0.0756,0.0268,2.49e-05,0.0392,Happy
+72yP0DUlWPyH8P7IoxskwN,Hold Me Closer,Elton John,0.486,0.75,0.667,126.041,"['glam rock', 'mellow gold', 'piano rock', 'rock']",202246,False,0,-4.602,1,0.0906,0.0746,0.000198,0.197,Happy
+0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,0.546,0.846,0.737,87.981,['lgbtq+ hip hop'],143901,True,1,-4.51,0,0.22,0.00614,0.0,0.0486,Happy
+3AVXwaOGCEL8cmBecfcsFJ,Light Switch,Charlie Puth,0.905,0.627,0.689,184.008,"['pop', 'viral pop']",187704,False,6,-5.692,1,0.308,0.105,0.000321,0.0905,Happy
+69kOkLUCkxIZYexIgSG8rq,Get Lucky (feat. Pharrell Williams and Nile Rodgers),Daft Punk,0.863,0.793,0.81,116.05,"['electro', 'filter house', 'rock']",369627,False,6,-9.404,0,0.0403,0.0378,1.77e-06,0.072,Happy
+5r43qanLhUCdBj8HN3fa6B,Sunshine,OneRepublic,0.774,0.875,0.697,140.069,"['piano rock', 'pop']",163855,False,5,-4.621,1,0.034,0.137,0.0,0.28,Happy
+1PckUlxKqWQs3RlWXVBLw3,About Damn Time,Lizzo,0.722,0.743,0.836,108.966,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",191822,True,10,-6.305,0,0.0656,0.0995,0.0,0.335,Happy
+3LtpKP5abr2qqjunvjlX5i,Doja,Central Cee,0.972,0.573,0.911,140.04,"['melodic drill', 'r&drill']",97393,True,6,-7.43,1,0.288,0.38,0.0,0.403,Happy
+181AxLRTyYh9WUxEjmJt1Y,Trompeta,Willy William,0.36,0.863,0.64,128.042,['pop dance'],168374,False,7,-3.864,0,0.0321,0.0152,0.088,0.301,Happy
+4RAR8g8fZNB106ezUurnE0,Dancing Feet (feat. DNCE),Kygo,0.523,0.797,0.75,105.949,"['edm', 'pop', 'pop dance', 'tropical house']",215203,False,0,-4.826,1,0.118,0.293,0.0,0.392,Happy
+4X66U6SUjvZqiKYIpCWXnq,Freeze,Kygo,0.0923,0.486,0.363,111.078,"['edm', 'pop', 'pop dance', 'tropical house']",487359,False,4,-10.905,1,0.0624,0.827,0.0445,0.11,Happy
+5iFwAOB2TFkPJk8sMlxP8g,Make You Mine,PUBLIC,0.638,0.799,0.606,103.014,['indie rockism'],232907,False,9,-4.452,1,0.0261,0.0128,0.0,0.15,Happy
+0YYg6U1Yrd4UjnG5iVhiXh,Missing Piece,Vance Joy,0.748,0.843,0.633,101.982,"['folk-pop', 'modern rock']",217408,False,0,-5.676,1,0.046,0.0142,4.84e-06,0.113,Happy
+71qB68guEJjbvtjlkZ8DF5,Undeniable (feat. X Ambassadors),Kygo,0.352,0.506,0.684,108.036,"['edm', 'pop', 'pop dance', 'tropical house']",180596,False,6,-6.743,1,0.0338,0.159,0.0,0.26,Happy
+4QNpBfC0zvjKqPJcyqBy9W,Give Me Everything (feat. Nayer),Pitbull,0.53,0.939,0.671,129.024,"['dance pop', 'miami hip hop', 'pop']",252307,False,8,-3.206,1,0.161,0.191,0.0,0.298,Happy
+2DB4DdfCFMw1iaR6JaR03a,Bam Bam (feat. Ed Sheeran),Camila Cabello,0.956,0.697,0.756,94.996,"['dance pop', 'pop']",206071,False,8,-6.377,1,0.0401,0.182,0.0,0.333,Happy
+763ynRN90zLEp9hrNNINjl,Lease On Life,Andy Grammer,0.606,0.701,0.704,88.016,"['neo mellow', 'post-teen pop', 'viral pop']",168163,False,2,-5.44,1,0.0596,0.0593,0.0,0.126,Happy
+3Wrjm47oTz2sjIgck11l5e,Beggin',Måneskin,0.589,0.8,0.714,134.002,"['indie rock italiano', 'italian pop']",211560,False,11,-4.808,0,0.0504,0.127,0.0,0.359,Happy
+6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,Elton John,0.942,0.798,0.796,116.032,"['glam rock', 'mellow gold', 'piano rock', 'rock']",202735,False,1,-6.312,1,0.0317,0.034,4.19e-05,0.0952,Happy
+1bgKMxPQU7JIZEhNsM1vFs,Words (feat. Zara Larsson),Alesso,0.444,0.586,0.739,124.026,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",142677,False,10,-5.079,0,0.0472,0.0245,0.000252,0.308,Happy
+0Zv5hSYT7LD7GFRO8Ip0oU,Until The End Of Time,Lost Coconut,0.0892,0.356,0.648,99.978,['chill house'],194400,False,4,-13.814,0,0.0339,0.633,0.11,0.163,Happy
+0lQ2obtzmAsJu9xk3D6FqH,Friendships (Lost My Love),Pascal Letoublon,0.544,0.828,0.787,119.953,[],182700,False,11,-3.579,0,0.0297,0.106,0.000605,0.105,Happy
+6eXKCcEqAU4eJLfDgh8sfG,Get Down Saturday Night,Gorgon Breath,0.615,0.791,0.705,121.017,[],138006,False,0,-5.083,0,0.0387,0.00721,0.0766,0.0967,Happy
+20b1ZBMGOZjuGvNFncIIP7,Time to Groove (feat. Nonô),Majestic,0.882,0.94,0.624,128.014,['uk dance'],146849,False,11,-3.671,0,0.163,0.000983,0.00409,0.313,Happy
+3pBv3LfvfPft2TqHleqKHo,Call On Me (feat. Georgia Ku),Sam Feldt,0.641,0.794,0.662,104.951,"['edm', 'pop dance', 'tropical house']",192000,False,6,-4.239,1,0.0533,0.171,0.0,0.0883,Happy
+2rHX09I9ISiQydG2FQ7P2s,When We Were Happy,Fason,0.426,0.728,0.65,100.049,['chill house'],192150,True,6,-6.87,0,0.0358,0.109,0.0,0.0766,Happy
+3FeVmId7tL5YN8B7R3imoM,My Universe,Coldplay,0.443,0.701,0.588,104.988,"['permanent wave', 'pop']",228000,False,9,-6.39,1,0.0402,0.00813,0.0,0.2,Happy
+2goLsvvODILDzeeiT4dAoR,Believe,Cher,0.459,0.917,0.652,132.975,"['dance pop', 'pop']",239027,False,6,-6.72,1,0.0548,0.0082,0.0,0.0509,Happy
+023H4I7HJnxRqsc9cqeFKV,I Got U,Duke Dumont,0.463,0.761,0.636,120.837,"['edm', 'house', 'pop dance', 'progressive house', 'uk dance']",285596,False,9,-7.752,0,0.035,0.00377,0.00784,0.0851,Happy
+6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,0.699,0.671,0.717,110.054,['scandipop'],160657,False,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,Happy
+7dk9EBvTbbKBbFxjCAJpwK,Hear Me Say,Jonas Blue,0.631,0.836,0.697,121.977,"['pop', 'pop dance', 'tropical house', 'uk dance']",190772,False,5,-5.005,1,0.0437,0.133,4.46e-06,0.0754,Happy
+1WCEAGGRD066z2Q89ObXTq,Crazy What Love Can Do,David Guetta,0.464,0.713,0.601,122.872,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",169756,False,4,-3.758,0,0.0449,0.0282,0.0,0.158,Happy
+5MxKAr6Ui5hQ9TtjdnlmrR,Anywhere With You,AFROJACK,0.531,0.743,0.596,125.883,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",158807,False,6,-4.149,1,0.0302,0.0696,2.37e-06,0.202,Happy
+1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,0.555,0.783,0.728,77.011,"['modern rock', 'pop', 'rock']",173381,False,11,-4.424,0,0.266,0.237,0.0,0.434,Happy
+6PQ88X9TkUIAUIZJHW2upE,Bad Habits,Ed Sheeran,0.591,0.897,0.808,126.026,"['pop', 'singer-songwriter pop', 'uk pop']",231041,False,11,-3.712,0,0.0348,0.0469,3.14e-05,0.364,Happy
+477daPpd3DnneaHhvjM35l,Are You With Me - Radio Edit,Lost Frequencies,0.412,0.574,0.776,121.03,"['belgian edm', 'edm', 'pop dance', 'tropical house']",138843,False,5,-9.882,0,0.0317,0.466,7.83e-05,0.131,Happy
+0aHOXu219Z4MqEKwiKsddl,Show Me Love,Robin Schulz,0.316,0.65,0.53,123.972,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",255960,False,11,-6.251,0,0.03,0.0461,0.0,0.0974,Happy
+2UbVnbE5FH6008mAm6Mmgw,Run,OneRepublic,0.673,0.72,0.682,117.003,"['piano rock', 'pop']",169011,False,11,-8.173,0,0.0381,0.326,0.0,0.148,Happy
+6SP8ZuGGemr9yTHkC6M2al,Crazy,Lauren Spencer Smith,0.274,0.445,0.566,86.21,"['alt z', 'gen z singer-songwriter', 'singer-songwriter pop']",236635,False,8,-5.048,1,0.0265,0.779,0.0,0.104,Happy
+7z5G2LOdV8okZn4yWg3q5g,Night Away (Dance) (feat. Tion Wayne),A1 x J1,0.835,0.552,0.706,142.037,"['chill drill', 'melodic drill', 'r&drill']",175775,True,5,-9.479,0,0.0833,0.235,0.0,0.144,Happy
+59VDjcpB2I8psQasslQpdK,Don't Leave Me Now,Lost Frequencies,0.717,0.752,0.671,124.998,"['belgian edm', 'edm', 'pop dance', 'tropical house']",195080,False,6,-6.806,0,0.0304,0.0258,0.0,0.112,Happy
+5vqkbdqGgSYpLWSsOiXkrj,Somewhere Over the Rainbow / What a Wonderful World,Robin Schulz,0.324,0.6,0.665,109.745,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",209148,False,0,-8.268,1,0.0673,0.298,2.17e-05,0.0847,Happy
+4qtdkdTY1t3RmlmSbWykzR,Stay the Night,Sigala,0.415,0.936,0.636,124.034,"['dance pop', 'edm', 'pop dance', 'uk dance']",171955,False,7,-2.65,0,0.0729,0.177,0.0,0.0879,Happy
+5SFXOMJJ334Wn2PwBHeRZN,Girls Like Us,Zoe Wees,0.171,0.648,0.444,125.706,['german pop'],189000,False,1,-4.955,1,0.0476,0.288,0.0,0.059,Happy
+4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,0.464,0.696,0.677,90.03,"['canadian pop', 'pop']",198082,True,0,-6.181,1,0.119,0.321,0.0,0.42,Happy
+6Skh3CBum0pZw9TOr7FQnX,Safe With Me (with Audrey Mika),Gryffin,0.507,0.757,0.497,169.902,"['edm', 'pop dance']",205165,False,11,-4.189,1,0.127,0.0449,0.0,0.119,Happy
+1kPpge9JDLpcj15qgrPbYX,Good Time,Owl City,0.682,0.872,0.56,126.05,"['indietronica', 'pop']",205933,False,3,-4.269,1,0.14,0.0239,6.98e-06,0.371,Happy
+4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,0.415,0.54,0.695,121.932,"['alt z', 'modern alternative pop']",168602,True,4,-5.692,1,0.0493,0.299,0.0,0.367,Happy
+0nrRP2bk19rLc0orkWPQk2,Wake Me Up,Avicii,0.643,0.783,0.532,124.08,"['dance pop', 'edm', 'pop', 'pop dance']",247427,False,2,-5.697,1,0.0523,0.0038,0.0012,0.161,Happy
+4lhqb6JvbHId48OUJGwymk,Hey Brother,Avicii,0.458,0.78,0.545,125.014,"['dance pop', 'edm', 'pop', 'pop dance']",255093,False,7,-4.867,0,0.0436,0.0309,4.64e-05,0.0828,Happy
+07rDOk6qeP4CpqlkJmUo5x,Tissues,Teddy Failure,0.643,0.564,0.722,152.064,[],153492,False,4,-5.763,1,0.112,0.636,2.47e-06,0.331,Happy
+11MhisqewmtL3qGXsiUMQB,Mystery,Lost Coconut,0.15,0.635,0.624,120.014,['chill house'],166000,False,8,-9.584,1,0.0356,0.198,0.554,0.0816,Happy
+4VEEDnEFLI9dUy5QA51rom,fools (can't help falling in love) (feat. Sody),Foster,0.361,0.604,0.706,82.03,"['sad lo-fi', 'sad rap']",165029,True,2,-6.932,1,0.303,0.418,0.0,0.242,Happy
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,0.654,0.835,0.527,125.983,"['dance pop', 'edm', 'pop', 'pop dance']",176658,False,6,-5.298,1,0.0433,0.0166,0.0,0.249,Happy
+5f1joOtoMeyppIcJGZQvqJ,Be Like That - feat. Swae Lee & Khalid,Kane Brown,0.322,0.626,0.727,86.97,"['black americana', 'contemporary country', 'country', 'country road']",191406,False,7,-8.415,1,0.0726,0.0469,2.58e-05,0.126,Happy
+6Q3K9gVUZRMZqZKrXovbM2,I'll Wait,Kygo,0.351,0.651,0.611,122.983,"['edm', 'pop', 'pop dance', 'tropical house']",215361,False,1,-6.973,1,0.0589,0.144,1.7e-05,0.105,Happy
+7vFoFDWqTX0mHzLfrF1Cfy,Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,0.603,0.685,0.782,118.02,['reggae fusion'],180566,False,4,-6.237,1,0.0309,0.166,1.18e-05,0.16,Happy
+00ETaeHUQ6lops3oWU1Wrt,Hot Stuff,Kygo,0.429,0.773,0.681,119.961,"['edm', 'pop', 'pop dance', 'tropical house']",199008,False,5,-5.749,1,0.148,0.019,1.28e-06,0.11,Happy
+4UuGBDjt8gLXsANZqZxMBz,Love You Better,John De Sohn,0.786,0.786,0.733,102.999,"['deep pop edm', 'pop dance', 'swedish tropical house']",170893,False,11,-7.494,1,0.0422,0.0931,0.0013,0.1,Happy
+5Gj1wG8b12VQdEd3hUuSwo,Freedom,Kygo,0.39,0.635,0.715,112.887,"['edm', 'pop', 'pop dance', 'tropical house']",198635,False,7,-6.591,1,0.0791,0.127,0.0,0.0862,Happy
+4p4EJiDJtvf9MFFk6zEQad,One to Make Her Happy,Pulsedriver,0.455,0.627,0.795,124.009,"['bubble trance', 'eurodance', 'german dance', 'hands up']",162000,False,0,-5.652,1,0.0403,0.00284,0.0,0.196,Happy
+0EQOvQPg4XXBtGImePb2oD,Reality,Lost Frequencies,0.527,0.639,0.731,122.08,"['belgian edm', 'edm', 'pop dance', 'tropical house']",158474,False,9,-6.597,1,0.0359,0.0206,1.29e-05,0.0789,Happy
+2LZwKxTPZLBCYjUhlogMZl,Catch & Release - Deepend Remix,Matt Simons,0.107,0.536,0.835,104.989,['neo-singer-songwriter'],195173,False,1,-8.645,0,0.0478,0.555,0.000386,0.111,Happy
+0Npijoc6ZcUe1devUugKvI,Dive,Hot Shade,0.409,0.787,0.654,123.978,[],164490,False,4,-4.999,1,0.0502,0.00515,0.0,0.144,Happy
+5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),Dua Lipa,0.915,0.825,0.702,102.977,"['dance pop', 'pop', 'uk pop']",203064,False,6,-3.787,0,0.0601,0.00883,0.0,0.0674,Happy
+1AVtceapuF36oZqI9gzp0o,Don't Start Now,Dua Lipa,0.679,0.793,0.793,123.95,"['dance pop', 'pop', 'uk pop']",183290,False,11,-4.521,0,0.083,0.0123,0.0,0.0951,Happy
+0uTFjOzKhhXkYcC3r3lWeZ,Dancing On Dangerous,Imanbek,0.702,0.864,0.658,105.053,"['electro house', 'pop dance', 'slap house']",123429,False,1,-2.698,0,0.0496,0.206,2.86e-06,0.119,Happy
+7HXBG0W8gFJwHUh5mVF9tf,Rise,Lost Frequencies,0.461,0.612,0.689,122.076,"['belgian edm', 'edm', 'pop dance', 'tropical house']",193018,False,6,-6.014,1,0.0387,0.228,7.77e-06,0.368,Happy
+3eR23VReFzcdmS7TYCrhCe,It Ain't Me (with Selena Gomez),Kygo,0.515,0.533,0.64,99.968,"['edm', 'pop', 'pop dance', 'tropical house']",220781,False,0,-6.596,1,0.0706,0.119,0.0,0.0864,Happy
+4ut5G4rgB1ClpMTMfjoIuy,High On Life (feat. Bonn),Martin Garrix,0.368,0.486,0.414,128.038,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",230762,False,6,-6.431,0,0.0311,0.0129,0.0,0.111,Happy
+73h4oe03sZy8bXfQLfnqMv,Who's Laughing Now,Ava Max,0.505,0.641,0.648,184.021,['pop'],180348,False,7,-5.521,1,0.0389,0.00565,3.63e-06,0.109,Happy
+59qrUpoplZxbIZxk6X0Bm3,Take You Dancing,Jason Derulo,0.753,0.711,0.789,112.985,"['dance pop', 'pop']",190306,False,2,-4.248,1,0.041,0.0332,0.0,0.0876,Happy
+73h6Ma5QhBFrshEN2CTevS,Someday,Kygo,0.327,0.686,0.612,122.115,"['edm', 'pop', 'pop dance', 'tropical house']",223716,False,7,-6.838,1,0.12,0.174,0.0,0.141,Happy
+6hHZNKWzcZ1wSf0NnagKba,Walk Away (feat. Kaptan),LVNDSCAPE,0.343,0.778,0.677,97.97,"['deep tropical house', 'pop dance', 'pop edm']",185613,False,6,-5.19,0,0.0291,0.265,0.0,0.247,Happy
+2u6Jm2klS4yvAlbSHlxUwI,Alane,Robin Schulz,0.662,0.799,0.581,124.002,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",175016,False,3,-6.66,1,0.164,0.0419,9.43e-06,0.11,Happy
+3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie (feat. Wyclef Jean),Shakira,0.758,0.824,0.778,100.024,"['colombian pop', 'dance pop', 'latin pop', 'pop']",218093,False,10,-5.892,0,0.0707,0.284,0.0,0.405,Happy
+1kKYjjfNYxE0YYgLa7vgVY,Higher Love,Kygo,0.404,0.678,0.693,103.952,"['edm', 'pop', 'pop dance', 'tropical house']",228267,False,8,-7.159,1,0.0324,0.0151,5.71e-06,0.101,Happy
+0vrmHPfoBadXVr2n0m1aqZ,Heaven,Avicii,0.516,0.873,0.592,122.011,"['dance pop', 'edm', 'pop', 'pop dance']",277262,False,9,-5.65,1,0.0275,0.0715,0.00982,0.142,Happy
+21te7Pz3VowOuFho1nfdR0,Letters,Lucas & Steve,0.575,0.771,0.634,121.984,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",191000,False,7,-7.727,1,0.0394,0.00855,0.0,0.29,Happy
+1FP9s72rDYty6mfoOEYKnE,All We Got (feat. KIDDO),Robin Schulz,0.64,0.76,0.504,183.933,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",190218,True,4,-4.246,1,0.0426,0.286,0.0,0.151,Happy
+5K6Ssv4Z3zRvxt0P6EKUAP,Heartbreak Anthem (with David Guetta & Little Mix),Galantis,0.479,0.784,0.595,124.111,"['dance pop', 'edm', 'pop', 'pop dance']",183726,False,1,-4.878,1,0.102,0.216,0.0,0.0608,Happy
+5PjdY0CKGZdEuoNab3yDmX,STAY (with Justin Bieber),The Kid LAROI,0.478,0.764,0.591,169.928,['australian hip hop'],141806,True,1,-5.484,1,0.0483,0.0383,0.0,0.103,Happy
+6bQfNiqyCX7UaQSvVVGo4I,Shivers,Ed Sheeran,0.822,0.859,0.788,141.02,"['pop', 'singer-songwriter pop', 'uk pop']",207853,False,2,-2.724,1,0.0856,0.281,0.0,0.0424,Happy
+5RfndPd7aG3Mazneoy9t8q,This Is The Life,Amy Macdonald,0.853,0.882,0.628,95.083,['scottish singer-songwriter'],184413,False,1,-5.024,0,0.0323,0.259,0.0,0.065,Happy
+0bI7K9Becu2dtXK1Q3cZNB,Don't Be Shy,Tiësto,0.513,0.787,0.77,119.986,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",140500,True,11,-3.748,0,0.0583,0.198,0.0,0.262,Happy
+30cW9fD87IgbYFl8o0lUze,Perfect (feat. Haris),Lucas & Steve,0.532,0.657,0.751,118.029,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",176517,False,6,-4.642,1,0.0989,0.0955,0.0,0.0945,Happy
+67khZBWjxlHg85xcwdySjS,I Got A Feeling,Felix Jaehn,0.378,0.845,0.6,125.027,"['edm', 'german dance', 'pop dance', 'tropical house', 'uk dance']",144136,False,2,-3.695,0,0.042,0.0238,0.0,0.434,Happy
+2M7NfIlPjyGyepWVu3KVnY,Crocodile Tears (feat. Jens Hult),BUNT.,0.766,0.83,0.639,100.019,['stutter house'],218800,False,5,-3.322,1,0.0353,0.118,0.0,0.0996,Happy
+4dyrqiXUcK29hzrL2elqO3,Like It Is,Kygo,0.343,0.727,0.789,104.947,"['edm', 'pop', 'pop dance', 'tropical house']",183067,False,1,-6.772,1,0.126,0.123,9.59e-06,0.222,Happy
+5qpEtUsEI1VkG63MNlRrAC,Come Back Home,Petey Martin,0.19,0.559,0.598,122.066,[],179853,False,5,-5.835,1,0.0387,0.019,0.0,0.17,Happy
+5W05N4aETUauCVzddI8L66,Use Your Love (feat. Goldford),Sam Feldt,0.659,0.776,0.712,124.977,"['edm', 'pop dance', 'tropical house']",174720,False,6,-3.341,1,0.0802,0.401,0.0,0.296,Happy
+6Owc2SuzwO3LW1SAODYK3l,Melody,Sigala,0.525,0.91,0.63,123.017,"['dance pop', 'edm', 'pop dance', 'uk dance']",167142,False,10,-2.681,0,0.058,0.0231,1.91e-06,0.125,Happy
+4bAmAVdks2Y84VNVVLXFwN,Show Me Love - EDX Remix / Radio Edit,Sam Feldt,0.677,0.665,0.836,120.997,"['edm', 'pop dance', 'tropical house']",180336,False,0,-5.779,1,0.0745,0.308,0.000925,0.0714,Happy
+78q4ESvMkPVJzHAV11LAGE,Little Bit of Love,Tom Grennan,0.623,0.706,0.689,106.52,['uk pop'],226268,False,1,-4.48,0,0.0312,0.0833,0.0,0.105,Happy
+6y6xhAgZjvxy5kR5rigpY3,Chasing Stars (feat. James Bay),Alesso,0.492,0.64,0.594,92.871,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",170457,False,10,-6.865,1,0.033,0.0169,0.0,0.135,Happy
+1jgu8MFTEGdL1wjw9gZj5y,Fly Away,Tones And I,0.488,0.515,0.805,124.969,['australian pop'],178157,False,4,-6.201,1,0.0915,0.223,0.0,0.238,Happy
+3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,0.262,0.636,0.671,120.966,"['belgian edm', 'edm', 'pop dance', 'tropical house']",148197,False,6,-8.117,0,0.103,0.515,0.000411,0.172,Happy
+4VginDwYTP2eaHJzO0QMjG,Circles,Post Malone,0.534,0.758,0.704,120.003,"['dfw rap', 'melodic rap', 'pop', 'rap']",214907,False,0,-3.537,1,0.0402,0.233,0.00144,0.0924,Happy
+2TKSH16Qb0zVRcqrHc3D3h,Sunday Morning (feat. Josie Dunne),Matoma,0.411,0.723,0.629,123.997,"['pop dance', 'tropical house']",186774,False,6,-5.688,1,0.0507,0.111,0.0,0.197,Happy
+0dXNQ8dckG4eYfEtq9zcva,All Night,The Vamps,0.507,0.804,0.538,144.992,"['boy band', 'pop']",197640,False,8,-5.194,1,0.0358,0.0041,0.0,0.33,Happy
+1gihuPhrLraKYrJMAEONyc,Feel So Close - Radio Edit,Calvin Harris,0.919,0.924,0.707,127.937,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",206413,False,7,-2.842,1,0.031,0.000972,0.00703,0.204,Happy
+0cvMWzztDy1wNQkBqae8w4,Ready To Love,KSHMR,0.383,0.815,0.598,121.986,"['big room', 'dutch house', 'edm', 'electro house', 'indian edm', 'pop dance', 'progressive electro house', 'slap house']",188852,False,11,-4.481,1,0.0858,0.0606,0.0,0.176,Happy
+3yvHcaY61FpeSiLiHiIST4,Rule The World (feat. ILIRA),GAMPER & DADONI,0.437,0.627,0.717,125.965,"['german dance', 'pop dance', 'tropical house']",170786,False,8,-8.198,1,0.0966,0.00974,0.0,0.222,Happy
+14sOS5L36385FJ3OL8hew4,Happy Now,Kygo,0.492,0.575,0.693,117.999,"['edm', 'pop', 'pop dance', 'tropical house']",211362,False,9,-6.998,1,0.0801,0.374,0.0,0.252,Happy
+3vkCueOmm7xQDoJ17W1Pm3,My Love Mine All Mine,Mitski,0.121,0.308,0.504,113.95,"['brooklyn indie', 'pov: indie']",137773,False,9,-14.958,1,0.0321,0.868,0.135,0.158,Calm
+6koKhrBBcExADvWuOgceNZ,Open Arms (feat. Travis Scott),SZA,0.239,0.586,0.434,78.259,"['pop', 'r&b', 'rap']",239613,False,9,-7.612,1,0.138,0.753,0.0144,0.146,Calm
+5XsAal7ZcWg1I5T4NcRjkv,Halley's Comet,Billie Eilish,0.0381,0.159,0.403,72.38,"['art pop', 'pop']",234761,False,1,-16.728,0,0.104,0.961,0.0121,0.34,Calm
+46kspZSY3aKmwQe7O77fCC,we can't be friends (wait for your love),Ariana Grande,0.295,0.646,0.645,115.842,['pop'],228639,False,5,-8.334,1,0.0427,0.0615,3.04e-05,0.074,Calm
+0AAMnNeIc6CdnfNU85GwCH,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),Metro Boomin,0.0551,0.3,0.751,120.097,['rap'],189467,False,4,-9.404,0,0.0584,0.199,0.000341,0.127,Calm
+3xKsf9qdS1CyvXSMEid6g8,Pink + White,Frank Ocean,0.549,0.545,0.545,159.94,"['lgbtq+ hip hop', 'neo soul']",184516,False,9,-7.362,1,0.107,0.667,5.48e-05,0.417,Calm
+5Y35SjAfXjjG0sFQ3KOxmm,Nobody Gets Me,SZA,0.276,0.284,0.358,99.796,"['pop', 'r&b', 'rap']",180853,True,7,-8.285,1,0.0285,0.805,0.0,0.183,Calm
+1i9lZvlaDdWDPyXEE95aiq,TELEKINESIS (feat. SZA & Future),Travis Scott,0.216,0.535,0.458,82.826,"['rap', 'slap house']",353755,True,5,-4.854,0,0.0281,0.575,0.0,0.168,Calm
+0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema,0.802,0.806,0.801,106.999,"['afrobeats', 'nigerian pop']",239318,False,11,-5.206,1,0.0381,0.382,0.000669,0.114,Calm
+3rWBerJZHd5IvS6o3dQEk7,Dream Girl,Kolohe Kai,0.707,0.507,0.595,134.189,['jawaiian'],229587,False,0,-7.152,1,0.0363,0.27,0.0,0.0376,Calm
+3zksbXteOCeSusJ5Xltr3t,Bubble Gum,Clairo,0.229,0.0167,0.509,207.97,"['bedroom pop', 'indie pop', 'pov: indie']",175961,False,9,-24.639,1,0.115,0.979,2.72e-05,0.387,Calm
+6IPwKM3fUUzlElbvKw2sKl,we fell in love in october,girl in red,0.237,0.366,0.566,129.96,"['bedroom pop', 'indie pop', 'norwegian indie', 'pov: indie']",184154,False,7,-12.808,1,0.028,0.113,0.181,0.155,Calm
+0WFryfbNKPXVtVQlz5dZ8H,hotline (edit),Billie Eilish,0.304,0.254,0.516,56.829,"['art pop', 'pop']",60720,False,9,-16.027,0,0.0589,0.816,0.855,0.189,Calm
+7eJMfftS33KTjuF7lTsMCx,death bed (coffee for your head),Powfu,0.348,0.431,0.726,144.026,"['sad lo-fi', 'sad rap']",173333,False,8,-8.765,0,0.135,0.731,0.0,0.696,Calm
+2JN3ugW1cEahbYw0I5mw5U,Astronomy,Conan Gray,0.152,0.343,0.474,145.115,"['bedroom pop', 'pop', 'pov: indie']",243907,False,4,-8.571,0,0.027,0.578,2.65e-05,0.305,Calm
+69UqtTHfUKAJweQwEStRzC,Sunsetz,Cigarettes After Sex,0.141,0.477,0.412,75.302,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",214680,False,9,-9.381,0,0.029,0.0542,0.798,0.0975,Calm
+6VzcQuzTNTMFnJ6rBSaLH9,Fine Line,Harry Styles,0.0511,0.347,0.306,120.996,['pop'],377960,False,2,-8.5,1,0.0334,0.172,0.00013,0.0485,Calm
+5v6qYImm5k36GHlFxdEZyv,Moral of the Story (feat. Niall Horan) - Bonus Track,Ashe,0.216,0.37,0.579,119.799,['alt z'],198515,True,10,-8.9,1,0.0383,0.496,0.0,0.221,Calm
+5Qnrgqy1pAm9GyNQOgyVFz,Fourth of July,Sufjan Stevens,0.162,0.104,0.435,120.484,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",279316,False,6,-22.39,0,0.0445,0.973,0.33,0.119,Calm
+4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,0.297,0.225,0.332,81.055,"['art pop', 'pop']",298899,True,0,-8.697,1,0.0348,0.767,0.00349,0.128,Calm
+5enxwA8aAbwZbf5qCHORXi,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,0.205,0.518,0.631,93.023,['pop'],613027,True,0,-8.771,1,0.0303,0.274,0.0,0.088,Calm
+6uvh0In7u1Xn4HgxOfAn8O,Matilda,Harry Styles,0.386,0.294,0.507,114.199,['pop'],245964,False,2,-10.0,1,0.04,0.896,1.97e-05,0.0966,Calm
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,0.27,0.425,0.357,102.078,"['bedroom pop', 'pop', 'pov: indie']",198040,False,5,-7.301,1,0.0333,0.584,0.0,0.322,Calm
+3AVrVz5rK8Hrqo9YGiVGN5,Apocalypse,Cigarettes After Sex,0.174,0.467,0.369,94.473,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",290147,False,5,-9.018,1,0.0274,0.0194,0.46,0.109,Calm
+32XaqPVTVkkuOiOPQZ3SpA,midnight love,girl in red,0.259,0.538,0.284,179.708,"['bedroom pop', 'indie pop', 'norwegian indie', 'pov: indie']",193929,False,2,-9.894,0,0.0886,0.717,0.105,0.111,Calm
+3hUxzQpSfdDqwM3ZTFQY0K,august,Taylor Swift,0.403,0.623,0.532,89.937,['pop'],261923,False,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,Calm
+4R2kfaDFhslZEMJqAFNpdd,cardigan,Taylor Swift,0.551,0.581,0.613,130.033,['pop'],239560,False,0,-8.588,0,0.0424,0.537,0.000345,0.25,Calm
+7kt9e9LFSpN1zQtYEl19o1,this is me trying,Taylor Swift,0.412,0.476,0.515,135.886,['pop'],195097,False,9,-9.843,1,0.0328,0.314,4.74e-05,0.171,Calm
+0Qr61NXlyAeQaADO5xn3rI,Cry,Cigarettes After Sex,0.161,0.399,0.409,142.823,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",256800,False,7,-10.456,1,0.0275,0.763,0.654,0.112,Calm
+78Sw5GDo6AlGwTwanjXbGh,Here With Me,d4vd,0.288,0.469,0.574,132.023,['bedroom pop'],242485,False,4,-8.209,1,0.0254,0.534,9.21e-05,0.128,Calm
+2qLyo5FeWquE7HBUbcVnEy,emails i can’t send,Sabrina Carpenter,0.408,0.387,0.515,86.313,['pop'],104408,True,7,-10.614,1,0.192,0.757,0.0,0.622,Calm
+5CZ40GBx1sQ9agT82CLQCT,traitor,Olivia Rodrigo,0.0849,0.339,0.38,100.607,['pop'],229227,False,3,-7.885,1,0.0338,0.691,0.0,0.12,Calm
+2kSb3wYSOV996xA2NSmpck,Melting,Kali Uchis,0.303,0.479,0.574,115.263,['colombian pop'],208854,False,8,-7.776,1,0.0355,0.179,0.0803,0.106,Calm
+2tGvwE8GcFKwNdAXMnlbfl,happier,Olivia Rodrigo,0.338,0.443,0.395,168.924,['pop'],175933,True,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,Calm
+1Ov37jtRQ2YNAe8HzfczkL,Wildest Dreams (Taylor's Version),Taylor Swift,0.498,0.67,0.583,140.061,['pop'],220433,False,8,-7.289,1,0.0646,0.0374,0.0001,0.126,Calm
+1Qrg8KqiBpW07V7PNxwwwL,Kill Bill,SZA,0.418,0.735,0.644,88.98,"['pop', 'r&b', 'rap']",153947,False,8,-5.747,1,0.0391,0.0521,0.144,0.161,Calm
+3afkJSKX0EAMsJXTZnDXXJ,Strawberries & Cigarettes,Troye Sivan,0.25,0.537,0.578,83.909,"['australian pop', 'pop', 'viral pop']",201539,False,9,-8.676,1,0.0832,0.162,0.0,0.076,Calm
+1dGr1c8CrMLDpV6mPbImSI,Lover,Taylor Swift,0.453,0.543,0.359,68.534,['pop'],221307,False,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,Calm
+4P9Q0GojKVXpRTJCaL3kyy,All Of The Girls You Loved Before,Taylor Swift,0.401,0.467,0.729,96.042,['pop'],221407,False,2,-9.682,1,0.0419,0.71,4.53e-05,0.129,Calm
+5URfZHMlUWTWxPvvSBWcPk,Beautiful Boy (Darling Boy) - Remastered 2010,John Lennon,0.435,0.469,0.574,111.378,"['classic rock', 'rock']",245693,False,2,-11.53,1,0.0403,0.733,1.96e-06,0.856,Calm
+3eX0NZfLtGzoLUxPNvRfqm,Maroon,Taylor Swift,0.0384,0.384,0.655,108.058,['pop'],218271,True,7,-8.29,1,0.0349,0.0634,1.45e-06,0.0973,Calm
+4k6Uh1HXdhtusDW5y8Gbvy,Bad Habit,Steve Lacy,0.7,0.494,0.686,168.946,['afrofuturism'],232067,True,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,Calm
+4LRPiXqCikLlN15c3yImP7,As It Was,Harry Styles,0.662,0.731,0.52,173.93,['pop'],167303,False,6,-5.338,0,0.0557,0.342,0.00101,0.311,Calm
+1LLXZFeAHK9R4xUramtUKw,London Boy,Taylor Swift,0.557,0.71,0.695,157.925,['pop'],190240,False,1,-6.639,1,0.05,0.0246,0.000104,0.133,Calm
+3GYlZ7tbxLOxe6ewMNVTkw,TV,Billie Eilish,0.119,0.236,0.412,140.214,"['art pop', 'pop']",281381,False,4,-15.159,0,0.0379,0.83,0.00653,0.147,Calm
+71EHOyEOhNx1SzTebRRyng,Weak,SWV,0.568,0.533,0.693,127.661,"['contemporary r&b', 'girl group', 'hip pop', 'new jack swing', 'r&b', 'urban contemporary']",291907,False,2,-10.954,0,0.0402,0.107,0.0,0.0695,Calm
+1kCewNSs909Xj1naXr36X8,Amor Prohibido,Selena,0.706,0.504,0.681,89.994,"['mexican pop', 'tejano']",172627,False,7,-11.099,1,0.0284,0.672,0.0,0.142,Calm
+5EL8hqM8YQJHKKnzGdahly,Dreaming Of You,Selena,0.247,0.458,0.553,165.807,"['mexican pop', 'tejano']",314867,False,8,-10.796,1,0.0381,0.325,9.71e-05,0.0583,Calm
+2ygvZOXrIeVL4xZmAWJT2C,my future,Billie Eilish,0.0875,0.309,0.444,104.745,"['art pop', 'pop']",208155,False,8,-10.956,1,0.062,0.795,0.132,0.352,Calm
+44AyOl4qVkzS48vBsbNXaC,Can't Help Falling in Love,Elvis Presley,0.343,0.293,0.396,100.307,"['rock-and-roll', 'rockabilly']",182360,False,2,-14.062,1,0.0275,0.941,0.000196,0.105,Calm
+41mclLjggl2nmbYpRisKrh,Chateau (Feel Alright),Djo,0.348,0.365,0.641,134.881,"['pov: indie', 'psychedelic pop']",272157,False,7,-11.763,1,0.027,0.43,8.23e-06,0.297,Calm
+1LklAGxyeK07JYRzw3Vzx9,Thérèse,Maya Hawke,0.358,0.354,0.623,104.32,['indie pop'],207389,False,9,-11.988,0,0.0394,0.948,0.0052,0.0998,Calm
+1qrpoAMXodY6895hGKoUpA,You Belong With Me (Taylor’s Version),Taylor Swift,0.474,0.773,0.632,130.033,['pop'],231124,False,6,-4.856,1,0.0346,0.0623,0.0,0.0885,Calm
+2TktkzfozZifbQhXjT6I33,Evergreen (You Didn’t Deserve Me At All),Omar Apollo,0.31,0.336,0.697,82.029,"['bedroom pop', 'bedroom soul']",216680,False,9,-10.395,1,0.0424,0.598,0.00528,0.107,Calm
+0gOz9JUXsaKVzLTSmFDtdo,A Soulmate Who Wasn’t Meant to Be,Jess Benko,0.087,0.0274,0.571,124.209,['gen z singer-songwriter'],316556,False,9,-20.274,0,0.0649,0.948,6.43e-06,0.322,Calm
+1bjeWoagtHmUKputLVyDxQ,Saturn,SZA,0.337,0.619,0.411,177.937,"['pop', 'r&b', 'rap']",186192,False,1,-6.834,1,0.0368,0.62,0.0,0.11,Calm
+5mCPDVBb16L4XQwDdbRUpz,Passionfruit,Drake,0.364,0.463,0.809,111.98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",298941,True,11,-11.377,1,0.0396,0.256,0.085,0.109,Calm
+5oO3drDxtziYU2H1X23ZIp,Love On The Brain,Rihanna,0.379,0.637,0.509,172.007,"['barbadian pop', 'pop', 'urban contemporary']",224000,True,4,-4.83,0,0.047,0.0717,1.08e-05,0.0789,Calm
+6wf7Yu7cxBSPrRlWeSeK0Q,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,0.111,0.084,0.391,79.449,"['art pop', 'pop']",222370,False,0,-17.843,1,0.0317,0.953,0.0,0.0983,Calm
+1eUGmzzvahJjOSWgDHuRlv,Girl With The Tattoo Enter.lewd,Miguel,0.127,0.239,0.372,113.451,"['r&b', 'urban contemporary']",102813,False,6,-11.314,0,0.0296,0.856,0.000175,0.168,Calm
+6qL5UWxRSQYml9O99ozoLv,Love Songs - Bonus,Kaash Paige,0.451,0.355,0.64,120.063,['contemporary r&b'],148640,False,5,-10.599,1,0.0906,0.83,0.000938,0.11,Calm
+4ewazQLXFTDC8XvCbhvtXs,Glimpse of Us,Joji,0.268,0.317,0.44,169.914,['viral pop'],233456,False,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,Calm
+59dLtGBS26x7kc0rHbaPrq,Nothin' on You (feat. Bruno Mars),B.o.B,0.743,0.853,0.688,103.993,"['atl hip hop', 'dance pop', 'pop rap', 'rap', 'southern hip hop']",268320,False,10,-5.814,1,0.0493,0.386,0.0,0.0862,Calm
+0nJW01T7XtvILxQgC5J7Wh,When I Was Your Man,Bruno Mars,0.387,0.28,0.612,72.795,"['dance pop', 'pop']",213827,False,0,-8.648,1,0.0434,0.932,0.0,0.088,Calm
+7MmHqOc14dtNUiOFS1uZyb,Selfish,PnB Rock,0.0524,0.594,0.616,102.05,"['melodic rap', 'rap', 'trap']",245743,False,1,-5.828,0,0.039,0.111,0.0,0.135,Calm
+6ilc4vQcwMPlvAHFfsTGng,Sweet,Cigarettes After Sex,0.115,0.51,0.449,96.425,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",292110,False,6,-9.075,1,0.0278,0.351,0.761,0.139,Calm
+3iBgrkexCzVuPy4O9vx7Mf,Glue Song,beabadoobee,0.582,0.409,0.62,113.946,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",135067,False,1,-10.146,1,0.0282,0.77,0.0542,0.105,Calm
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,0.551,0.763,0.695,120.042,"['dfw rap', 'melodic rap', 'pop', 'rap']",215280,False,0,-3.497,1,0.0396,0.189,0.00242,0.0863,Calm
+6dBUzqjtbnIa1TwYbyw5CM,Lovers Rock,TV Girl,0.572,0.871,0.559,104.97,['pov: indie'],213920,False,5,-5.338,0,0.0397,7.53e-06,0.00545,0.096,Calm
+2Zo1PcszsT9WQ0ANntJbID,Feather,Sabrina Carpenter,0.826,0.694,0.791,123.508,['pop'],185553,True,6,-4.332,0,0.0335,0.0736,1.75e-06,0.0958,Calm
+7rWgGyRK7RAqAAXy4bLft9,Angeleyes,ABBA,0.964,0.922,0.719,133.113,"['europop', 'swedish pop']",260893,False,11,-6.091,1,0.0338,0.523,0.000163,0.0867,Calm
+6sHsXIJoEN5JpdkGMQDJxt,The Boy Is Mine,Brandy,0.761,0.707,0.704,93.145,"['contemporary r&b', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",294787,False,1,-6.537,0,0.0391,0.539,0.00106,0.318,Calm
+3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next",Ariana Grande,0.411,0.654,0.72,106.976,['pop'],207320,True,1,-5.634,1,0.0647,0.227,0.0,0.101,Energetic
+222B3aljXx6fFwKmFjuBED,Woman Like Me (feat. Nicki Minaj),Little Mix,0.8,0.854,0.754,75.002,"['girl group', 'pop', 'talent show', 'uk pop']",229720,True,5,-3.449,0,0.0608,0.177,0.0,0.0808,Energetic
+7DnAm9FOTWE3cUvso43HhI,Sweet but Psycho,Ava Max,0.62,0.706,0.72,133.002,['pop'],187436,False,1,-4.719,1,0.0473,0.0684,0.0,0.166,Energetic
+3cU2wBxuV6nFiuf6PJZNlC,Dear Future Husband,Meghan Trainor,0.832,0.782,0.655,79.427,"['hip pop', 'pop']",184227,False,1,-4.789,1,0.185,0.375,0.0,0.317,Energetic
+4gcD056im8FrahECIaTV70,Cold Heart - PNAU Remix,Elton John,0.934,0.8,0.795,116.032,"['glam rock', 'mellow gold', 'piano rock', 'rock']",202735,False,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,Energetic
+3RauEVgRgj1IuWdJ9fDs70,The Man,Taylor Swift,0.633,0.658,0.777,110.048,['pop'],190360,False,0,-5.191,1,0.054,0.0767,0.0,0.0901,Energetic
+5oO3drDxtziYU2H1X23ZIp,Love On The Brain,Rihanna,0.379,0.637,0.509,172.007,"['barbadian pop', 'pop', 'urban contemporary']",224000,True,4,-4.83,0,0.047,0.0717,1.08e-05,0.0789,Energetic
+6qn9YLKt13AGvpq9jfO8py,We Found Love,Rihanna,0.6,0.766,0.735,127.975,"['barbadian pop', 'pop', 'urban contemporary']",215227,False,1,-4.485,1,0.0384,0.025,0.00141,0.108,Energetic
+6naxalmIoLFWR0siv8dnQQ,Oops!...I Did It Again,Britney Spears,0.894,0.834,0.751,95.053,"['dance pop', 'pop']",211160,False,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,Energetic
+5J4ZkQpzMUFojo1CtAZYpn,Love Me Harder,Ariana Grande,0.244,0.712,0.486,99.128,['pop'],236133,False,1,-4.388,0,0.0328,0.00936,0.0,0.0764,Energetic
+0PG9fbaaHFHfre2gUVo7AN,Please Me,Cardi B,0.65,0.57,0.747,133.992,"['pop', 'rap']",200890,True,1,-6.711,1,0.081,0.0642,0.0,0.0832,Energetic
+6YVpU5vVxezJCYeQUxIkRT,What Lovers Do (feat. SZA),Maroon 5,0.422,0.598,0.8,109.998,['pop'],199849,False,5,-5.131,0,0.0617,0.0798,5.47e-06,0.1,Energetic
+0azC730Exh71aQlOt9Zj3y,This Is What You Came For,Calvin Harris,0.465,0.927,0.631,123.962,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",222160,False,9,-2.787,0,0.0332,0.199,0.119,0.148,Energetic
+0nhBKubnVz9yFNNprBniWz,YOUTH,Troye Sivan,0.591,0.737,0.628,91.505,"['australian pop', 'pop', 'viral pop']",185194,False,7,-4.437,1,0.041,0.0638,0.0,0.0777,Energetic
+1tg7d4XKCgviATFNkxIX8r,Hair,Little Mix,0.683,0.813,0.692,153.971,"['girl group', 'pop', 'talent show', 'uk pop']",209280,False,7,-5.401,1,0.0413,0.00921,2.74e-05,0.653,Energetic
+4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,0.415,0.54,0.695,121.932,"['alt z', 'modern alternative pop']",168602,True,4,-5.692,1,0.0493,0.299,0.0,0.367,Energetic
+5ywsqu9AEJnEJhJ05Vf9Me,Blast Off,Bruno Mars,0.346,0.548,0.482,76.017,"['dance pop', 'pop']",284870,False,11,-9.946,1,0.0373,0.0363,2.28e-06,0.3,Energetic
+1KzGj3xvi9IiY05kBlkm2G,Bad Things (with Camila Cabello),mgk,0.305,0.691,0.697,137.853,"['ohio hip hop', 'pop rap']",239293,False,2,-4.757,1,0.146,0.214,0.0,0.185,Energetic
+5IVuqXILoxVWvWEPm82Jxr,Crazy In Love (feat. Jay-Z),Beyoncé,0.681,0.77,0.646,99.165,"['pop', 'r&b']",236133,False,2,-6.596,0,0.226,0.00249,0.0,0.0715,Energetic
+1yjY7rpaAQvKwpdUliHx0d,Still into You,Paramore,0.765,0.923,0.602,136.01,"['candy pop', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']",216013,False,5,-3.763,1,0.044,0.0098,0.0,0.0561,Energetic
+0laYHRpNTS6i8FXdupHkJ4,Love You Like A Love Song,Selena Gomez & The Scene,0.922,0.678,0.858,117.009,['pop'],188453,False,1,-3.87,0,0.0469,0.0761,0.0,0.0741,Energetic
+3sqrvkNC6IPTIXvvbx9Arw,Enchanted,Taylor Swift,0.228,0.618,0.535,81.975,['pop'],352200,False,8,-3.913,1,0.0273,0.0716,0.000388,0.169,Energetic
+1BSMpVGWs3v5BZKnAQziAc,Light Switch,Charlie Puth,0.912,0.626,0.69,184.009,"['pop', 'viral pop']",185681,False,6,-5.693,1,0.306,0.105,0.000335,0.0881,Energetic
+2KZ3sNqPogEyMUUH6A5HFy,LALISA,LISA,0.854,0.652,0.804,150.076,['k-pop'],200690,False,8,-6.282,1,0.0898,0.0267,0.000782,0.118,Energetic
+3oHNJECGN3bBoGXejlw2b1,Last Friday Night (T.G.I.F.),Katy Perry,0.732,0.81,0.652,126.022,['pop'],230733,False,3,-3.789,0,0.0406,0.00129,2.91e-05,0.667,Energetic
+1pXrR5Y9OgcIV2JEAl2lCB,I Kissed A Girl,Katy Perry,0.696,0.76,0.702,129.996,['pop'],179640,False,5,-3.174,1,0.0684,0.00226,0.0,0.132,Energetic
+0p1cpgsmrHcYJ4kOvOSPsw,Saving All My Love For You,Dami Im,0.362,0.557,0.334,197.622,"['australian pop', 'australian talent show', 'talent show']",184840,False,6,-5.961,0,0.0496,0.155,1.66e-06,0.106,Energetic
+3FeVmId7tL5YN8B7R3imoM,My Universe,Coldplay,0.443,0.701,0.588,104.988,"['permanent wave', 'pop']",228000,False,9,-6.39,1,0.0402,0.00813,0.0,0.2,Energetic
+6bQfNiqyCX7UaQSvVVGo4I,Shivers,Ed Sheeran,0.822,0.859,0.788,141.02,"['pop', 'singer-songwriter pop', 'uk pop']",207853,False,2,-2.724,1,0.0856,0.281,0.0,0.0424,Energetic
+1PckUlxKqWQs3RlWXVBLw3,About Damn Time,Lizzo,0.722,0.743,0.836,108.966,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",191822,True,10,-6.305,0,0.0656,0.0995,0.0,0.335,Energetic
+7mFj0LlWtEJaEigguaWqYh,Sweetest Pie,Megan Thee Stallion,0.677,0.628,0.814,123.977,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",201334,True,7,-7.178,1,0.221,0.167,0.0,0.101,Energetic
+0ug5NqcwcFR2xrfTkc7k8e,Style,Taylor Swift,0.487,0.791,0.588,94.933,['pop'],231000,False,7,-5.595,1,0.0402,0.00245,0.00258,0.118,Energetic
+7EyhPjrJzjx0fk2i7vUJCS,Pink Venom,BLACKPINK,0.69,0.719,0.794,90.016,"['k-pop', 'k-pop girl group', 'pop']",186964,False,0,-7.227,1,0.0761,0.0119,0.0,0.276,Energetic
+3TcL0dyCMyr0kyTTc4NLgI,Who Says,Selena Gomez & The Scene,0.744,0.927,0.682,101.019,['pop'],195613,False,4,-2.915,1,0.0479,0.0843,0.0,0.149,Energetic
+2tGvwE8GcFKwNdAXMnlbfl,happier,Olivia Rodrigo,0.338,0.443,0.395,168.924,['pop'],175933,True,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,Energetic
+0AH6WMe3OlAlUb5miXt2FQ,Only Girl (In The World),Rihanna,0.611,0.716,0.789,125.906,"['barbadian pop', 'pop', 'urban contemporary']",235493,False,11,-4.241,0,0.0432,0.129,1.07e-05,0.069,Energetic
+6tS3XVuOyu10897O3ae7bi,California Gurls,Katy Perry,0.426,0.755,0.791,125.014,['pop'],234653,False,0,-3.729,1,0.0568,0.00452,0.0,0.163,Energetic
+7lrqvdivAYRGEiO8JFP31G,Boy With Luv (Feat. Halsey),BTS,0.803,0.862,0.645,119.947,"['k-pop', 'k-pop boy group', 'pop']",229773,False,11,-4.761,0,0.0845,0.0933,0.0,0.193,Energetic
+0yLdNVWF3Srea0uzk55zFn,Flowers,Miley Cyrus,0.646,0.681,0.707,117.999,['pop'],200455,False,0,-4.325,1,0.0668,0.0632,5.15e-06,0.0322,Energetic
+2Oycxb8QbPkpHTo8ZrmG0B,Prisoner (feat. Dua Lipa),Miley Cyrus,0.595,0.67,0.781,127.99,['pop'],169333,False,3,-3.912,0,0.0452,0.0103,0.0,0.0761,Energetic
+0I4658wYMK45Ffx1IlKRjG,Magic,Kylie Minogue,0.655,0.782,0.732,106.048,"['australian dance', 'australian pop', 'dance pop', 'eurodance', 'new wave pop']",250680,False,0,-4.844,1,0.03,0.0268,9.94e-06,0.106,Energetic
+7aLT0tLcS40Penaplqu2cZ,Greedy,Ariana Grande,0.844,0.705,0.619,109.975,['pop'],214907,False,1,-5.335,1,0.099,0.0323,0.0,0.0919,Energetic
+1V6gIisPpYqgFeWbMLI0bA,Heart Attack,Demi Lovato,0.502,0.785,0.504,173.968,"['pop', 'post-teen pop']",210840,False,8,-4.802,1,0.104,0.0738,0.0,0.239,Energetic
+7oDd86yk8itslrA9HRP2ki,Die For You - Remix,The Weeknd,0.502,0.525,0.531,66.9,"['canadian contemporary r&b', 'canadian pop', 'pop']",232857,False,1,-6.5,0,0.0671,0.232,0.0,0.441,Energetic
+6WDG2ybdV3SBXV0lwBGu4D,Maybe You’re The Problem,Ava Max,0.447,0.835,0.532,166.003,['pop'],190290,False,9,-3.646,1,0.129,0.0404,0.0,0.0648,Energetic
+3wFM8TWbbkwPuB6TyqpVDv,Million Dollar Baby,Ava Max,0.642,0.85,0.653,133.017,['pop'],184295,False,2,-2.217,0,0.0867,0.0328,9.16e-06,0.337,Energetic
+5xwBIieMMFUmLDgvG4DjFe,Fall In Love Alone,Stacey Ryan,0.522,0.625,0.676,171.883,[],205428,False,7,-5.455,0,0.0711,0.316,0.000119,0.127,Energetic
+3r8RuvgbX9s7ammBn07D3W,Ditto,NewJeans,0.183,0.641,0.814,133.854,"['k-pop', 'k-pop girl group']",185507,False,6,-5.957,0,0.111,0.027,0.0,0.0993,Energetic
+1kuGVB7EU95pJObxwvfwKS,vampire,Olivia Rodrigo,0.323,0.53,0.484,136.848,['pop'],219724,True,5,-5.821,1,0.0538,0.154,0.0,0.263,Energetic
+1s7oOCT8vauUh01PbJD6ps,Calm Down (with Selena Gomez),Rema,0.802,0.806,0.801,106.999,"['afrobeats', 'nigerian pop']",239318,False,11,-5.206,1,0.0381,0.382,0.000669,0.114,Energetic
+1xK59OXxi2TAAAbmZK0kBL,Romantic Homicide,d4vd,0.216,0.544,0.571,132.052,['bedroom pop'],132631,False,6,-10.613,1,0.0299,0.453,0.00805,0.322,Sad
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,0.12,0.296,0.351,115.284,"['art pop', 'pop']",200186,False,4,-10.109,0,0.0333,0.934,0.0,0.095,Sad
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,0.27,0.425,0.357,102.078,"['bedroom pop', 'pop', 'pov: indie']",198040,False,5,-7.301,1,0.0333,0.584,0.0,0.322,Sad
+3vkCueOmm7xQDoJ17W1Pm3,My Love Mine All Mine,Mitski,0.121,0.308,0.504,113.95,"['brooklyn indie', 'pov: indie']",137773,False,9,-14.958,1,0.0321,0.868,0.135,0.158,Sad
+5Qnrgqy1pAm9GyNQOgyVFz,Fourth of July,Sufjan Stevens,0.162,0.104,0.435,120.484,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",279316,False,6,-22.39,0,0.0445,0.973,0.33,0.119,Sad
+11hEwcy9LMEvzAlOYAFhkK,"not a lot, just forever",Adrianne Lenker,0.304,0.269,0.354,91.608,"['countrygaze', 'indie pop', 'small room']",250198,False,1,-13.242,1,0.0297,0.885,0.00035,0.0872,Sad
+4IhTXiZLKATmwhMZIb1GQN,Lights Are On,Tom Rosenthal,0.249,0.04,0.44,135.965,['british singer-songwriter'],193749,False,3,-16.887,1,0.0322,0.981,0.465,0.111,Sad
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,0.0823,0.373,0.667,124.148,['pop'],169266,True,4,-9.389,1,0.05,0.785,0.0,0.0906,Sad
+3qhlB30KknSejmIvZZLjOD,End of Beginning,Djo,0.912,0.454,0.689,159.982,"['pov: indie', 'psychedelic pop']",159246,False,2,-7.643,1,0.0584,0.0351,0.00259,0.0707,Sad
+2L9N0zZnd37dwF0clgxMGI,ceilings,Lizzy McAlpine,0.261,0.322,0.516,148.005,"['alt z', 'boston folk', 'indie pop', 'singer-songwriter pop']",182888,False,9,-11.762,1,0.0292,0.473,0.00194,0.215,Sad
+3JvKfv6T31zO0ini8iNItO,Another Love,Tom Odell,0.131,0.537,0.445,122.769,['chill pop'],244360,True,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,Sad
+6wf7Yu7cxBSPrRlWeSeK0Q,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,0.111,0.084,0.391,79.449,"['art pop', 'pop']",222370,False,0,-17.843,1,0.0317,0.953,0.0,0.0983,Sad
+2V852FRIFO7mFgfiyDMum1,Symphonia IX,Current Joys,0.149,0.38,0.593,99.323,"['lo-fi indie', 'pov: indie']",181360,False,0,-12.682,1,0.0247,0.913,0.573,0.289,Sad
+1Dsee91MSgdtDmO4UNXiJo,8 Years Old,RIELL,0.363,0.473,0.475,130.367,['dark r&b'],188081,False,0,-8.635,1,0.0828,0.669,1.03e-06,0.0816,Sad
+6xGruZOHLs39ZbVccQTuPZ,Glimpse of Us,Joji,0.268,0.317,0.44,169.914,['viral pop'],233456,False,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,Sad
+4ZLzoOkj0MPWrTLvooIuaa,Get You The Moon (feat. Snøw),Kina,0.0895,0.235,0.498,118.917,"['sad lo-fi', 'slowed and reverb']",179080,False,1,-16.541,0,0.188,0.72,0.0,0.144,Sad
+3hRV0jL3vUpRrcy398teAU,The Night We Met,Lord Huron,0.0998,0.369,0.448,174.097,"['indie folk', 'stomp and holler']",208212,False,9,-9.514,1,0.0452,0.968,0.272,0.638,Sad
+51Grh1RyUDcMBbpuyUIUHI,rises the moon,Liana Flores,0.203,0.129,0.483,137.35,['pov: indie'],161929,False,5,-20.149,0,0.0349,0.947,0.145,0.106,Sad
+0bU5duEpySFmUdgcVKoUgS,What Am I To You,Jordan Parker,0.187,0.263,0.455,82.929,[],230163,False,6,-9.842,1,0.03,0.454,0.00276,0.109,Sad
+3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,Billie Eilish,0.243,0.225,0.704,120.006,"['art pop', 'pop']",245426,False,6,-14.454,0,0.0994,0.902,0.657,0.106,Sad
+2vWBUC9djv6BtiGlmKiQaH,YKWIM?,Yot Club,0.228,0.537,0.372,123.735,['bedroom pop'],212750,False,9,-7.623,1,0.0305,0.937,0.873,0.287,Sad
+62ke5zFUJN6RvtXZgVH0F8,Only Love Can Hurt Like This,Paloma Faith,0.304,0.885,0.566,90.99,"['british soul', 'talent show', 'uk pop']",232893,False,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,Sad
+14bICTOBi6AzT9sl9XVqfb,baby where you are,Liush,0.239,0.115,0.579,156.764,[],143000,False,9,-17.718,1,0.0461,0.857,0.00192,0.119,Sad
+2SYEH8KdT65kB7u7nJDEhY,die first - stripped,Nessa Barrett,0.269,0.255,0.694,91.736,"['alt z', 'social media pop']",174783,False,11,-9.375,1,0.0487,0.736,0.0,0.118,Sad
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,0.446,0.405,0.501,109.891,"['pop', 'uk pop']",182161,False,1,-5.679,1,0.0319,0.751,0.0,0.105,Sad
+3OHfY25tqY28d16oZczHc8,Kill Bill,SZA,0.43,0.728,0.644,88.993,"['pop', 'r&b', 'rap']",153947,False,8,-5.75,1,0.0351,0.0543,0.169,0.161,Sad
+0jLQ1SiuIfS1RQZgG70bel,changes,Diphda,0.468,0.15,0.549,129.328,[],127385,False,11,-14.758,1,0.041,0.944,0.0,0.0889,Sad
+5CZ40GBx1sQ9agT82CLQCT,traitor,Olivia Rodrigo,0.0849,0.339,0.38,100.607,['pop'],229227,False,3,-7.885,1,0.0338,0.691,0.0,0.12,Sad
+2bdVgAQgosGUJoViVDNeOV,LIMBO,keshi,0.0841,0.366,0.577,129.923,['chill r&b'],212785,True,8,-11.792,1,0.0368,0.879,7.76e-05,0.137,Sad
+6UzYGhWbKDb0wE8v6VDebW,alone,Miranda Fling,0.188,0.317,0.484,154.198,[],166632,False,5,-10.21,1,0.0348,0.737,0.0,0.225,Sad
+1Xi84slp6FryDSCbzq4UCD,Arcade,Duncan Laurence,0.271,0.331,0.459,72.023,['dutch pop'],183624,False,9,-12.603,0,0.0421,0.817,0.00104,0.135,Sad
+21uFPefbgeR3QLVJWATlrr,Scott Street,Phoebe Bridgers,0.483,0.417,0.508,134.944,"['indie pop', 'la indie', 'pov: indie']",305001,False,10,-9.632,1,0.0296,0.77,0.0928,0.0887,Sad
+2NbsBSshscKIPRG3kwBbfo,Never Felt So Alone,Labrinth,0.363,0.409,0.436,98.357,"['indie poptimism', 'pop']",160166,False,5,-4.438,1,0.0533,0.499,0.000166,0.38,Sad
+5DG2tchzXGTQWKgaCaXkpq,Seaside,Memior,0.335,0.296,0.437,128.364,[],117209,False,3,-11.423,0,0.0311,0.0917,0.253,0.116,Sad
+1odExI7RdWc4BT515LTAwj,Daylight,David Kushner,0.324,0.43,0.508,130.09,"['gen z singer-songwriter', 'singer-songwriter pop']",212954,False,2,-9.475,0,0.0335,0.83,0.000441,0.093,Sad
+1daDRI9ahBonbWD8YcxOIB,Angels Like You,Miley Cyrus,0.494,0.642,0.672,121.981,['pop'],196453,False,5,-4.035,1,0.0313,0.0981,0.0,0.1,Sad
+4xF4ZBGPZKxECeDFrqSAG4,snowfall,Øneheart,0.0841,0.0918,0.466,95.014,['hardwave'],124066,False,10,-26.813,1,0.0269,0.929,0.803,0.439,Sad
+1ei3hzQmrgealgRKFxIcWn,In The Stars,Benson Boone,0.3,0.54,0.362,78.007,['singer-songwriter pop'],216410,False,10,-6.031,1,0.0528,0.338,0.0,0.139,Sad
+21VYRXcBepS7xyAeS8GK4y,River Flowin' West,High Tropics,0.622,0.675,0.542,96.003,[],115709,False,3,-6.228,1,0.0295,0.603,1.42e-06,0.153,Sad
+4KULAymBBJcPRpk1yO4dOG,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,0.155,0.453,0.429,77.639,['classic oklahoma country'],227196,False,0,-7.746,1,0.0459,0.554,2e-06,0.102,Sad
+2TktkzfozZifbQhXjT6I33,Evergreen (You Didn’t Deserve Me At All),Omar Apollo,0.31,0.336,0.697,82.029,"['bedroom pop', 'bedroom soul']",216680,False,9,-10.395,1,0.0424,0.598,0.00528,0.107,Sad
+0ol0kxeGvxBboZ3wVZ4ZTq,you got me worse,i don't like mirrors,0.283,0.0972,0.749,129.931,['corecore'],142154,False,9,-25.739,1,0.055,0.968,0.96,0.109,Sad
+0EF1EE8zusg3Y869e56JFd,Nothing's New,Rio Romeo,0.399,0.394,0.421,96.192,"['pov: indie', 'weirdcore']",211000,False,11,-8.312,1,0.0277,0.863,4.74e-06,0.0984,Sad
+6FBzhcfgGacfXF3AmtfEaX,C U Girl,Steve Lacy,0.409,0.473,0.414,100.0,['afrofuturism'],129698,False,11,-8.911,0,0.116,0.663,0.0523,0.128,Sad
+0xbo7WYx6fQ8UP0OsgaTKQ,Where You Are - Acoustic Version,Rival,0.217,0.247,0.334,148.984,['gaming edm'],222400,False,7,-11.752,0,0.0476,0.918,2.67e-05,0.149,Sad
+1FWsomP9StpCcXNWmJk8Cl,K.,Cigarettes After Sex,0.319,0.401,0.454,93.703,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",320030,False,3,-10.251,1,0.0264,0.14,0.837,0.136,Sad
+71BWZa1liIRyUiuJ3MB66o,I Know You,Faye Webster,0.144,0.385,0.454,154.918,"['atlanta indie', 'indie pop']",251667,False,10,-12.849,1,0.0313,0.287,9.97e-05,0.0616,Sad
+78Sw5GDo6AlGwTwanjXbGh,Here With Me,d4vd,0.288,0.469,0.574,132.023,['bedroom pop'],242485,False,4,-8.209,1,0.0254,0.534,9.21e-05,0.128,Sad
+6JVOeKaRMwFjgiH3IbZhW1,Make You Mine,Valentin,0.261,0.422,0.522,123.013,[],206829,False,5,-10.835,1,0.0458,0.821,0.000361,0.127,Sad
+3pyyGVqWvRMq43qtJBzxe0,Kids,Current Joys,0.904,0.66,0.828,113.45,"['lo-fi indie', 'pov: indie']",269143,False,6,-9.669,1,0.0337,0.508,0.403,0.0755,Sad
+3IznIgmXtrUaoPWpQTy5jB,Not Allowed,TV Girl,0.563,0.905,0.67,104.965,['pov: indie'],167864,True,1,-6.855,1,0.129,0.669,0.000227,0.349,Sad
+7lQUiU7ig8VnBUF0cHZGOH,you.,Oscar Lang,0.0466,0.227,0.51,143.323,['bedroom pop'],157014,False,4,-9.729,1,0.0302,0.94,0.0402,0.116,Sad
+74fA6WgClZZKS6B90R1VZs,Suburbs,Miranda Fling,0.195,0.433,0.58,104.538,[],161143,False,11,-12.766,1,0.0382,0.671,0.00719,0.11,Sad
+1lb0KfG9EyfSBsEifTUtXY,someday i'll get it,Alek Olsen,0.102,0.051,0.438,102.711,['corecore'],94750,False,8,-22.44,1,0.0373,0.93,0.916,0.113,Sad
+5nVE45ithgyVocZp5XLAk6,The Bug Collector,Haley Heynderickx,0.529,0.419,0.538,99.622,"['countrygaze', 'indie pop', 'portland indie', 'small room']",228460,True,10,-9.705,1,0.0353,0.777,0.329,0.0967,Sad
+1KIJclzEbNhSVw8tiHPWwE,Young,Vacations,0.594,0.81,0.498,79.935,"['newcastle nsw indie', 'pov: indie']",189160,False,7,-4.065,1,0.0263,0.00392,0.00717,0.0635,Sad
+1oZOE3QiAwj0hymitKbDwY,Clocks,Valentin,0.155,0.306,0.316,130.55,[],172214,False,10,-10.926,1,0.0325,0.885,0.000501,0.105,Sad
+0mflMxspEfB0VbI1kyLiAv,Stick Season,Noah Kahan,0.801,0.5,0.664,117.896,['pov: indie'],182347,False,9,-6.935,1,0.0651,0.799,0.0,0.0966,Sad
+2prqm9sPLj10B4Wg0wE5x9,BLUE,Billie Eilish,0.0365,0.337,0.349,142.01,"['art pop', 'pop']",343120,False,7,-10.671,1,0.0407,0.29,0.172,0.139,Sad
+6whOApl6TgeCGRwMM52tkl,theres this girl,sign crushes motorist,0.163,0.134,0.612,80.04,['corecore'],297875,False,9,-25.029,1,0.035,0.987,0.898,0.102,Sad
+3tAzBlgsnYvFPVmiGvWRcZ,Winter,RIELL,0.409,0.601,0.632,119.697,['dark r&b'],184033,False,9,-5.923,0,0.0489,0.697,0.0,0.303,Sad
+5GRarkYarOgejsLCxLprQD,Slipping Through My Fingers,Declan McKenna,0.216,0.118,0.519,120.843,['pov: indie'],263500,False,7,-17.093,1,0.0435,0.895,0.00106,0.127,Sad
+6QT6j7rKt7Vk3IuV2AUO9W,lacy,Olivia Rodrigo,0.426,0.367,0.395,77.968,['pop'],177212,False,3,-7.653,1,0.0324,0.815,0.0,0.11,Sad
+2nilAlGEZmwyaLTMMyDdLo,For Emma,Bon Iver,0.566,0.613,0.669,110.668,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",220720,False,4,-11.12,0,0.036,0.487,0.176,0.132,Sad
+2JlpPwPhKzfHLLmucnMVWQ,Lovesong,Furious Monkey House,0.393,0.552,0.603,133.982,['galician rock'],208015,False,4,-7.133,0,0.0605,0.601,0.0612,0.126,Sad
+7EDcAz6iuKSkxH4VcC3Oko,I Wait for You,alex_g_offline,0.308,0.304,0.594,122.636,[],158105,False,7,-14.389,1,0.036,0.956,0.00579,0.119,Sad
+6tqzOYuE3lrNVPDgtF3MjM,Youth,Daughter,0.436,0.535,0.401,146.515,"['chamber pop', 'shimmer pop']",253013,False,0,-11.09,1,0.0407,0.889,0.00667,0.116,Sad
+0AAMnNeIc6CdnfNU85GwCH,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),Metro Boomin,0.0551,0.3,0.751,120.097,['rap'],189467,False,4,-9.404,0,0.0584,0.199,0.000341,0.127,Sad
+0L231AHHmCX7EU7uO8mNVB,who knows where the time goes?,Liush,0.106,0.0806,0.565,60.343,[],291500,False,4,-17.941,1,0.0397,0.926,0.0333,0.0901,Sad
+219slQu3ALbTSAe9P22hvE,Happiest Year,Jaymes Young,0.355,0.168,0.502,112.881,[],228443,False,1,-14.061,1,0.0486,0.885,0.0,0.111,Sad
+555CH6CnGJRqO37pqA30vW,Deep End,Birdy,0.31,0.296,0.455,171.744,"['neo mellow', 'uk pop', 'viral pop']",208840,False,2,-8.513,1,0.0399,0.761,0.0,0.0783,Sad
+5ys0tPwqMDqsL7pX6i5pj8,Need 2,Pinegrove,0.216,0.634,0.55,76.555,"['countrygaze', 'new jersey indie', 'small room']",191797,False,1,-8.302,0,0.0262,0.00974,0.197,0.0733,Sad
+36I3zoyOK2pbpakqesPj4U,My Ghost,RIELL,0.169,0.443,0.56,149.765,['dark r&b'],189070,False,3,-8.827,1,0.048,0.324,2.99e-06,0.0989,Sad
+3Cou9Rf87erNBpjWjTZZaZ,Home - Slowed,Edith Whiskers,0.307,0.223,0.703,108.869,[],217596,False,0,-12.317,1,0.0306,0.98,0.00096,0.0996,Sad
+0WFryfbNKPXVtVQlz5dZ8H,hotline (edit),Billie Eilish,0.304,0.254,0.516,56.829,"['art pop', 'pop']",60720,False,9,-16.027,0,0.0589,0.816,0.855,0.189,Sad
+0j1Ia2lQWrcXrQZI4AdJlk,IDK You Yet,Alexander 23,0.198,0.308,0.648,76.997,"['alt z', 'singer-songwriter pop']",184638,False,1,-11.729,1,0.04,0.886,0.0774,0.124,Sad
+2brezwPsyNI7vb1Q3z8JpA,guess someone has to die alone,Meric,0.132,0.613,0.416,142.056,[],234084,False,10,-5.299,0,0.0375,0.231,4.59e-05,0.103,Sad
+6Uwi2Qk3H7fM4b4W4ExrAp,Scott Street,Phoebe Bridgers,0.483,0.417,0.508,134.944,"['indie pop', 'la indie', 'pov: indie']",305001,False,10,-9.632,1,0.0296,0.77,0.0928,0.0887,Sad
+1Fid2jjqsHViMX6xNH70hE,Atlantis,Seafret,0.213,0.479,0.4,166.159,['folk-pop'],229173,False,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,Sad
+0ubShTPmg2yVtGzaNUGMOR,somewhere only we know (sped up),accelerate,0.275,0.16,0.452,200.666,['sped up'],160000,False,1,-13.63,1,0.0747,0.972,3.76e-05,0.1,Sad
+7GLIlcAlNmXHrt16mlMym7,What Will Be Will Be,High Tropics,0.548,0.735,0.498,129.943,[],231504,False,4,-5.056,1,0.0258,0.00481,6.87e-06,0.144,Sad
+3GYlZ7tbxLOxe6ewMNVTkw,TV,Billie Eilish,0.119,0.236,0.412,140.214,"['art pop', 'pop']",281381,False,4,-15.159,0,0.0379,0.83,0.00653,0.147,Sad
+7d4CBdzpBJTM9SDUseL5rb,Gilded Lily - Slowed + Reverb,Cults,0.0531,0.498,0.258,152.598,"['experimental pop', 'indie surf', 'pov: indie']",258537,False,8,-7.952,0,0.0377,0.681,0.126,0.451,Sad
+0QPRDC97rIQB3Jh3hrVJoH,SNAP,Rosa Linn,0.518,0.639,0.563,169.985,['alt z'],179551,False,0,-8.205,1,0.0684,0.107,1.06e-05,0.446,Sad
+26hOm7dTtBi0TdpDGl141t,Die For You,Joji,0.154,0.518,0.472,147.805,['viral pop'],211667,False,8,-7.379,1,0.051,0.383,0.127,0.289,Sad
+6izgVcgRGTvG3oPDRK9qQy,Cupid,Sandra Iris,0.634,0.541,0.47,89.551,[],101128,False,7,-8.639,0,0.188,0.0929,0.0,0.4,Sad
+0c8K5IUrmVlieC0Fc0d8tV,Mr. Forgettable,David Kushner,0.29,0.412,0.564,144.689,"['gen z singer-songwriter', 'singer-songwriter pop']",187293,False,8,-9.23,0,0.0274,0.554,0.0,0.151,Sad
+5sA3i6SGkILMiZW6Fhx4wv,the way things go,beabadoobee,0.463,0.513,0.528,131.952,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",187800,False,9,-8.266,1,0.0306,0.848,0.0127,0.326,Sad
+1RaF9xwakfao1RRknWyYB5,4runner,Brenn!,0.483,0.508,0.588,128.025,['singer-songwriter pop'],265454,False,1,-10.667,1,0.095,0.318,0.000186,0.421,Sad
+0DiwE0n9CdMBf8Ow3g5C2F,it is what it is,Abe Parker,0.181,0.542,0.526,134.535,['singer-songwriter pop'],195998,False,3,-5.732,0,0.0373,0.454,0.0,0.423,Sad
+2dHHgzDwk4BJdRwy9uXhTO,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,0.157,0.613,0.716,97.914,['rap'],221520,True,1,-6.018,0,0.0522,0.391,0.0,0.0813,Sad
+7MLDhEMEky6lkTJkATVuFp,Impossible,Snt,0.57,0.22,0.448,155.017,[],226154,False,4,-12.69,0,0.0377,0.828,0.0,0.364,Sad
+1yUO5lVnOstziQEz7byXBx,close with desires (right person wrong timing),teo glacier,0.48,0.436,0.665,130.079,['bedroom r&b'],203144,False,11,-8.076,0,0.0421,0.318,1.1e-05,0.114,Sad
+6BrfgV35h3NfTtIdMqhmFQ,we're all eating each other,Juliet Ivy,0.601,0.639,0.777,105.014,[],151143,False,2,-5.701,1,0.0289,0.0117,0.000222,0.209,Sad
+2iC9xdV7OXkUBsDWZ8CNzW,crowded places,Kamal.,0.152,0.277,0.514,83.534,['modern indie pop'],150860,False,6,-15.067,1,0.0615,0.66,0.00637,0.106,Sad
+5XsAal7ZcWg1I5T4NcRjkv,Halley's Comet,Billie Eilish,0.0381,0.159,0.403,72.38,"['art pop', 'pop']",234761,False,1,-16.728,0,0.104,0.961,0.0121,0.34,Sad
+1VL6vvlSUBiL55yGLzzWBH,11:45,BRAN,0.395,0.359,0.483,170.122,"['covertronica', 'traprun']",162429,False,9,-10.357,0,0.0852,0.928,1.06e-05,0.147,Sad
+6F5mZpEEjhsAW8UEqbIpz1,Tired,beabadoobee,0.345,0.418,0.63,140.037,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",199515,True,7,-7.111,0,0.0254,0.483,0.15,0.111,Sad
+6WlmEymaXKMRs3D2c4j6os,Inside Out,Duster,0.652,0.465,0.553,79.223,"['corecore', 'pov: indie', 'slowcore']",141040,False,9,-9.664,1,0.0301,0.84,0.97,0.102,Sad
+26b3oVLrRUaaybJulow9kz,People,Libianca,0.693,0.422,0.573,124.357,['afrobeats'],184791,False,10,-7.621,0,0.0678,0.551,1.31e-05,0.102,Sad
+5hnGrTBaEsdukpDF6aZg8a,How Do I Say Goodbye,Dean Lewis,0.393,0.641,0.4,81.552,"['australian pop', 'pop']",163603,False,8,-6.303,1,0.0674,0.214,0.0,0.0656,Sad
+1LUXhYSwa1fcf1BBMKOJE4,Do I Wanna Know?,deer noir,0.129,0.322,0.26,84.929,[],239294,False,9,-13.212,0,0.035,0.925,0.000742,0.103,Sad
+4rHfpAN2CK3H6eRWd7j7E0,Fear,Current Joys,0.506,0.447,0.716,93.955,"['lo-fi indie', 'pov: indie']",216540,False,2,-8.314,1,0.0388,0.701,0.429,0.0855,Sad
+5ZjV4yevHO1QhMw8AjyQbZ,Good Looking,Suki Waterhouse,0.266,0.561,0.364,150.07,['indie pop'],214800,False,4,-9.076,1,0.03,0.0776,0.000348,0.125,Sad
+4OmfWzukSVD140NiAIEjem,Static,Steve Lacy,0.215,0.305,0.335,79.001,['afrofuturism'],156507,True,1,-12.661,1,0.0741,0.434,0.631,0.101,Sad
+1ovZe7upcqycTuPFfOg6kB,complex (demo),Katie Gregson-MacLeod,0.258,0.167,0.384,95.102,[],256108,False,0,-9.92,1,0.0375,0.924,0.0,0.118,Sad
+35PKfoynRpVFoAUE3D5Kc6,Work Song,Hozier,0.262,0.388,0.433,177.234,"['irish singer-songwriter', 'modern rock', 'pov: indie']",229716,False,10,-7.687,1,0.0998,0.776,0.0,0.112,Sad
+2M9ro2krNb7nr7HSprkEgo,Fast Car,Tracy Chapman,0.194,0.292,0.711,103.951,"['folk', 'lilith', 'singer-songwriter', ""women's music""]",296800,False,4,-15.523,0,0.037,0.313,0.0,0.131,Sad
+5KsdpA6yTbWq7OuPlcP3It,sparks,LEIDAN,0.119,0.318,0.379,92.986,[],183971,False,1,-10.908,1,0.114,0.305,0.00181,0.0949,Sad
+4UGvqm3e7UElrrriPtnhwz,Habits,Genevieve Stokes,0.438,0.287,0.663,82.457,['modern alternative pop'],136733,False,9,-9.469,1,0.0344,0.854,6.85e-06,0.346,Sad
+5vUnjhBzRJJIAOJPde6zDx,TO THE MOON,JNR CHOI,0.386,0.65,0.745,144.047,['gambian hip hop'],152137,True,2,-11.814,1,0.346,0.0451,0.00758,0.111,Sad
+0ZyMnNiR8456K5EQ66Z97b,25,Miranda Fling,0.231,0.583,0.671,129.878,[],149077,False,10,-10.697,0,0.0332,0.634,0.0252,0.127,Sad
+5TXDeTFVRVY7Cvt0Dw4vWW,Revenge,XXXTENTACION,0.18,0.251,0.746,139.999,"['emo rap', 'miami hip hop', 'rap']",120027,True,11,-16.169,0,0.259,0.782,0.00203,0.106,Sad
+2phAGMKTgjWyL3b1sQjsZ2,You Were Needed the Most,longlost,0.237,0.667,0.625,152.016,[],151579,False,2,-8.409,1,0.0492,0.141,0.567,0.0844,Sad
+59CfNbkERJ3NoTXDvoURjj,Boyfriend,Dove Cameron,0.232,0.612,0.345,179.773,['pop'],153000,True,7,-6.543,0,0.0608,0.232,0.0,0.194,Sad
+1j6Ru0hAZS1ksXXrZKRmYi,Sweater Weather,Valentin,0.398,0.387,0.739,123.969,[],202161,False,7,-7.974,0,0.0367,0.791,0.0,0.0926,Sad
+5aXfGM7WVcqyAvqnL7k0y3,Remember - Acoustic,Becky Hill,0.509,0.379,0.62,118.899,"['pop dance', 'pop house', 'uk dance', 'uk pop']",178627,False,3,-8.675,1,0.0412,0.797,0.0,0.195,Sad
+70LcF31zb1H0PyJoS1Sx1r,Creep,Radiohead,0.104,0.43,0.515,91.844,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",238640,True,7,-9.935,1,0.0372,0.0097,0.000133,0.129,Sad
+0otRX6Z89qKkHkQ9OqJpKt,Car's Outside,James Arthur,0.259,0.562,0.338,149.907,"['pop', 'talent show', 'uk pop']",248373,False,9,-7.181,1,0.029,0.039,0.0,0.107,Sad
+6qrcJkIpuWpxH0ruS8WVAy,In This Darkness,Clara La San,0.189,0.228,0.647,119.828,[],197000,False,2,-19.288,1,0.0668,0.841,0.00149,0.108,Sad
+7795WJLVKJoAyVoOtCWqXN,I'm Not The Only One,Sam Smith,0.493,0.484,0.678,82.004,"['pop', 'uk pop']",239317,False,5,-5.795,1,0.0361,0.529,2.01e-05,0.0766,Sad
+4fN0dQGDaV4Hg7Gd7mBOE0,Rivers and Roads,The Head And The Heart,0.165,0.198,0.499,131.622,"['folk-pop', 'seattle indie', 'stomp and holler']",284000,False,0,-8.931,1,0.036,0.721,3.72e-05,0.0755,Sad
+6ddrqKswARm2Yb0zLJeJDp,Hold On,Lifeguard Duty,0.48,0.523,0.696,135.019,[],201822,False,1,-9.086,0,0.0401,0.144,0.00385,0.106,Sad
+5S9Zs5g9lTWnLIboN1pdlU,Fingers Crossed,Lauren Spencer Smith,0.446,0.473,0.603,109.494,"['alt z', 'gen z singer-songwriter', 'singer-songwriter pop']",175345,False,5,-7.23,1,0.0511,0.616,0.0,0.31,Sad
+36AWmLYL4tMTfZseHQHoVl,the way that we started (taylor),elijah woods,0.512,0.518,0.627,82.006,['singer-songwriter pop'],204878,True,1,-7.064,1,0.0567,0.362,1.34e-05,0.109,Sad
+0MIiqne6YsbsDz4z9MGA2K,ur so pretty,Wasia Project,0.228,0.231,0.322,91.186,[],132000,False,4,-12.919,1,0.0347,0.932,0.00076,0.149,Sad
+5AJ4lT1OjU2hrUZ9JpnoTv,Home - Henry Nowhere Remix,Skinny Dippers,0.787,0.565,0.754,128.998,[],255000,False,5,-9.081,0,0.0322,0.673,0.794,0.116,Sad
+2GThBgzZoZfz0lx1JjBwfe,Those Eyes,New West,0.243,0.351,0.597,119.948,['toronto indie'],220750,False,4,-8.043,1,0.0281,0.727,3.86e-05,0.319,Sad
+72HyixZAVyNR3Ljiuumgyo,what if i took it off for you?,Nemahsis,0.206,0.238,0.385,150.729,[],136707,False,5,-8.255,1,0.0309,0.914,1.59e-05,0.0969,Sad
+4v7DCN09hgXkKazefkznDQ,Lonely,Akon,0.623,0.526,0.634,90.087,['dance pop'],235800,True,5,-7.881,0,0.0333,0.339,0.0,0.257,Sad
+47hJYBDckFqxQlpmqSj8Wk,Someone You Loved,Valentin,0.0676,0.271,0.623,109.973,[],181091,False,0,-11.946,1,0.0309,0.527,0.000246,0.0909,Sad
+0rzaRSujxA0bKyjJl6vHYq,Satellite,Harry Styles,0.301,0.457,0.576,138.984,['pop'],218577,False,0,-6.473,1,0.0304,0.143,3.05e-05,0.0917,Sad
+0KQRhak4Irr2CKxgQ9U6ay,MEAN!,Madeline The Person,0.433,0.416,0.502,175.191,['gen z singer-songwriter'],143960,False,7,-9.504,1,0.433,0.912,0.0,0.0934,Sad
+72794Eag03xdy7TO0KNuid,Cayendo (Side A - Acoustic),Frank Ocean,0.121,0.12,0.35,68.995,"['lgbtq+ hip hop', 'neo soul']",202200,False,3,-11.104,0,0.0393,0.982,0.000289,0.103,Sad
+4NehixXjPmHF9AGkTeIdzf,live alone,kikomori,0.209,0.513,0.543,149.972,[],217598,True,11,-9.9,1,0.0283,0.215,0.0,0.346,Sad
+04sN26COy28wTXYj3dMoiZ,Bored,Billie Eilish,0.112,0.318,0.614,119.959,"['art pop', 'pop']",180933,False,7,-12.695,1,0.0478,0.896,0.00239,0.0795,Sad
+2fhOljbX79loRcdl47SFye,Moonlight on the River,Mac DeMarco,0.43,0.478,0.662,139.98,"['edmonton indie', 'lo-fi indie', 'pov: indie', 'slacker rock']",422613,False,9,-8.631,1,0.0451,0.252,0.833,0.216,Sad
+5VKKg5uIy24qBe6sUiJaFh,Possibility,Lykke Li,0.0772,0.311,0.285,117.813,"['art pop', 'electropop', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish indie pop', 'swedish pop']",306440,False,0,-10.012,1,0.032,0.768,0.00183,0.0809,Sad
+5wkSKyynDrfredsDRTQt7B,Never Going Back Again - Acoustic,Johnning,0.368,0.629,0.552,159.949,"['gaming edm', 'pop edm']",207928,False,11,-7.015,1,0.0317,0.303,0.0,0.31,Sad
+2tGvwE8GcFKwNdAXMnlbfl,happier,Olivia Rodrigo,0.338,0.443,0.395,168.924,['pop'],175933,True,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,Sad
+10nyNJ6zNy2YVYLrcwLccB,No Surprises,Radiohead,0.118,0.393,0.255,76.426,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",229120,False,5,-10.654,1,0.0278,0.0577,0.00361,0.113,Sad
+6nlj33XLKWHJJVDHTdlwgH,Dreaming Of The Sun,Sandra Iris,0.388,0.429,0.654,149.382,[],235716,False,2,-11.95,1,0.0466,0.715,0.00179,0.123,Sad
+6dBUzqjtbnIa1TwYbyw5CM,Lovers Rock,TV Girl,0.572,0.871,0.559,104.97,['pov: indie'],213920,False,5,-5.338,0,0.0397,7.53e-06,0.00545,0.096,Sad
+4nyF5lmSziBAt7ESAUjpbx,"I miss you, I’m sorry",Gracie Abrams,0.151,0.455,0.445,109.885,['alt z'],167538,False,7,-6.405,1,0.0575,0.731,1.47e-06,0.124,Sad
+7dDrR6vMK1JAwZZ5MIWgme,birthday cake,Dylan Conrique,0.15,0.255,0.436,113.265,"['alt z', 'singer-songwriter pop', 'social media pop']",205280,False,3,-8.623,1,0.0364,0.955,3.28e-05,0.106,Sad
+365ZJWvC9ZXi0RylrHTYNC,Yellow,caravan,0.153,0.22,0.319,172.792,[],196927,False,8,-12.646,1,0.0341,0.925,0.0,0.112,Sad
+1TQXIltqoZ5XXyfCbAeSQQ,Dancing With Your Ghost,Sasha Alex Sloan,0.389,0.328,0.629,74.953,['alt z'],197732,False,11,-8.284,1,0.029,0.768,2.5e-05,0.103,Sad
+4GISsjjHTA2UyM9DY4DNgY,internet crush,Jeremy Zucker,0.0954,0.325,0.369,154.046,"['alt z', 'electropop', 'pop']",202736,False,11,-9.846,1,0.0671,0.416,3.76e-05,0.361,Sad
+4T2zre0jqstNJ5Gt0WG9lz,Not My Responsibility,Billie Eilish,0.0362,0.13,0.468,115.039,"['art pop', 'pop']",227680,False,1,-18.031,1,0.0571,0.454,0.927,0.0819,Sad
+22txtTAz7qM0ZbuQi0LM0d,December,Liush,0.325,0.133,0.415,90.947,[],144563,False,2,-17.369,1,0.0301,0.922,0.71,0.104,Sad
+2xZ0zfuDTv5LxLhEgD82PG,Awkward,SZA,0.397,0.474,0.618,119.999,"['pop', 'r&b', 'rap']",178000,True,5,-12.097,1,0.0789,0.182,0.000122,0.108,Sad
+0KpWiHVmIFDTvai20likX4,drunk text,Henry Moodie,0.176,0.493,0.614,94.784,['singer-songwriter pop'],187263,False,0,-5.356,1,0.0314,0.0676,0.0,0.113,Sad
+3ZBeHiRJUj1vdiU8zzGPgb,WYD Now?,Sadie Jean,0.496,0.334,0.378,181.296,"['alt z', 'singer-songwriter pop']",144667,False,1,-10.993,1,0.304,0.776,0.0,0.115,Sad
+58d2fDizWMpMVnim2IDZME,RED EYES N BLUE SKIES,3ANGEL,0.0388,0.307,0.688,141.987,[],153380,True,9,-18.278,1,0.0939,0.527,0.000713,0.719,Sad
+4VtRHZ4tBDHaWltVAytlLY,go,Cat Burns,0.528,0.251,0.663,90.272,['uk pop'],215000,True,6,-9.87,0,0.0435,0.88,0.0,0.0932,Sad
+6pPLhloHxLWiMlAT5Xn1gw,Talk 2 Me,Montell Fish,0.181,0.126,0.464,103.176,['pittsburgh rap'],139806,False,11,-16.383,1,0.0647,0.816,3.67e-06,0.559,Sad
+29Co9NKhOM5R9vWCrpkPPK,All For You,Cian Ducrot,0.335,0.268,0.551,77.079,"['irish pop', 'singer-songwriter pop']",219381,True,2,-9.954,1,0.0427,0.805,0.0,0.0977,Sad
+7Dw770W1ZtqQkYDZO5jcnY,The Girl,INTRN,0.299,0.0617,0.425,135.387,['lo-fi chill'],138750,False,7,-15.142,1,0.0345,0.947,3e-06,0.11,Sad
+0yc6Gst2xkRu0eMLeRMGCX,Apocalypse,Cigarettes After Sex,0.18,0.468,0.369,94.434,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",290617,False,5,-9.013,1,0.0273,0.0205,0.566,0.109,Sad
+7Ko1ZXgGku1hjFH7LIfD33,Become the Warm Jets,Current Joys,0.0844,0.227,0.44,132.354,"['lo-fi indie', 'pov: indie']",334902,False,7,-15.486,1,0.0459,0.772,0.00144,0.0951,Sad
+7o6wClSMN2SMYN20a4lHwp,Complicated,Valentin,0.318,0.516,0.55,78.086,[],196923,False,5,-6.83,1,0.0337,0.443,0.0,0.0833,Sad
+4L7jMAP8UcIe309yQmkdcO,Lost,Frank Ocean,0.497,0.603,0.913,123.061,"['lgbtq+ hip hop', 'neo soul']",234093,True,8,-4.892,1,0.226,0.0272,0.000503,0.167,Sad
+0r3sjyiC4jE179QJHG9geQ,paper,kenzie,0.192,0.335,0.603,78.988,['social media pop'],167676,True,1,-9.694,1,0.0731,0.7,4.58e-05,0.0987,Sad
+4WZCa8TEYyUrGMbQ2dDv5r,SATAN,Liush,0.333,0.124,0.675,107.337,[],196341,False,8,-17.768,1,0.0398,0.971,0.209,0.114,Sad
+1ockRdKkYBfNfxf0EC0PjX,whatif,kikomori,0.409,0.551,0.653,156.027,[],208929,True,11,-10.599,1,0.303,0.099,6.04e-05,0.204,Sad
+3hUxzQpSfdDqwM3ZTFQY0K,august,Taylor Swift,0.403,0.623,0.532,89.937,['pop'],261923,False,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,Sad
+18ddJHQ7CUzNBiy55L0Xjj,WFM,RealestK,0.247,0.184,0.437,80.088,[],136000,False,1,-17.667,1,0.0313,0.72,0.00253,0.113,Sad
+79rgaQokWJVaXzpKTXgJob,Everybody's Changing,Valentin,0.206,0.268,0.63,93.956,[],205053,False,0,-11.82,1,0.0255,0.828,3.31e-05,0.085,Sad
+4EDijkJdHBZZ0GwJ12iTAj,Stargirl Interlude,The Weeknd,0.441,0.474,0.638,179.771,"['canadian contemporary r&b', 'canadian pop', 'pop']",111640,False,5,-12.7,0,0.124,0.351,0.191,0.105,Sad
+1DOgkaR5Gqa8JtPEIbQORC,Over,Lucky Daye,0.379,0.541,0.677,103.369,"['alternative r&b', 'r&b']",205276,True,6,-6.057,0,0.0571,0.48,0.0,0.125,Sad
+4FWG7vVA7doXmp6qRTgiq1,BOREDOM,Munboi,0.269,0.362,0.686,82.018,[],189107,False,5,-11.342,0,0.0756,0.0974,0.32,0.125,Sad
+6S7o12almFeL57rbRvdY5l,Vas,jagger finn,0.416,0.424,0.514,71.114,['bedroom pop'],90324,False,0,-10.645,1,0.0282,0.918,0.849,0.126,Sad
+0DGTcMqvVR7fmBXgiG6jz4,Just A Cloud Away,Pharrell Williams,0.677,0.46,0.89,112.555,"['dance pop', 'pop']",176078,False,2,-8.155,1,0.0359,0.432,0.0,0.11,Sad
+0a9w6rQAPMfCtnCExpCE2a,was it easy getting over me?,Gloria Kim,0.0636,0.343,0.391,123.27,[],196850,False,3,-7.984,0,0.0363,0.314,0.0,0.103,Sad
+6Qqh9VEIeHjGoTHsSA8VZZ,Kid Again,Camo Columbo,0.402,0.605,0.802,114.945,[],184696,False,6,-8.643,0,0.0416,0.713,0.01,0.171,Sad
+7eB1V5LvAdxCc7brfGhRRo,watch,Billie Eilish,0.35,0.599,0.441,165.212,"['art pop', 'pop']",177523,False,0,-8.985,1,0.225,0.333,0.00198,0.103,Sad
+1SOClUWhOi8vHZYMz3GluK,Infinity,Jaymes Young,0.494,0.673,0.671,121.963,[],237720,False,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,Sad
+1npSSnKFAEoRcCU6uZVvPy,The Breakup Song,High Tropics,0.688,0.835,0.605,140.906,[],165173,False,9,-7.42,0,0.0602,0.0508,0.166,0.212,Sad
+1eCTQhsNA31FcwyNcJcf86,"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",Sista Prod,0.507,0.616,0.702,80.482,['sad lo-fi'],156188,False,6,-4.903,1,0.326,0.686,0.0,0.145,Sad
+10hMM5nsZQf66ldBlgWBfG,All For Us - from the HBO Original Series Euphoria,Labrinth,0.172,0.652,0.348,70.956,"['indie poptimism', 'pop']",192987,False,3,-7.145,1,0.0931,0.0165,0.000264,0.33,Sad
+5LCxaJ6WHn2vCsIS9apc41,Postcardtospain,Liush,0.215,0.126,0.471,121.681,[],207795,False,8,-17.802,1,0.0381,0.943,0.0776,0.112,Sad
+6AGOKlMZWLCaEJGnaROtF9,Put Your Records On,Ritt Momney,0.151,0.491,0.399,91.066,['bedroom pop'],210463,False,6,-10.778,0,0.0538,0.0563,0.00089,0.11,Sad
+6tH1lxPcQConWuvlh85yFT,abcdefu (chill),GAYLE,0.195,0.429,0.554,112.899,"['alt z', 'modern alternative pop']",176766,True,1,-7.687,0,0.0334,0.0405,0.0,0.23,Sad
+30LvnsFly9MIrnVjqxZD9U,Big Jet Plane,AFTRHOURS,0.209,0.44,0.839,140.032,['la pop'],134143,False,0,-10.349,1,0.0827,0.39,0.000151,0.134,Sad
+0JzG1wJuB4v9UPkSE7LMXi,Hotel,Montell Fish,0.192,0.427,0.228,180.345,['pittsburgh rap'],197333,False,0,-8.739,0,0.0363,0.752,0.0167,0.592,Sad
+2pg2TiYo9Rb8KeB5JjP7jS,Sativa,Jhené Aiko,0.72,0.61,0.741,125.99,['r&b'],276960,True,6,-7.34,0,0.0511,0.316,0.0,0.534,Sad
+4i5AGea3Bnoqcf5Mki21Ul,brainrot,kikomori,0.565,0.726,0.794,117.034,[],154451,False,7,-6.364,1,0.0487,0.0919,5.91e-05,0.0669,Sad
+52xFKeXEHm2fI8jpia0oUS,Quietly Yours,Birdy,0.293,0.355,0.442,154.223,"['neo mellow', 'uk pop', 'viral pop']",234156,False,1,-14.27,1,0.0574,0.838,0.003,0.114,Sad
+7eJMfftS33KTjuF7lTsMCx,death bed (coffee for your head),Powfu,0.348,0.431,0.726,144.026,"['sad lo-fi', 'sad rap']",173333,False,8,-8.765,0,0.135,0.731,0.0,0.696,Sad
+1kFrfg16usCeiNl0OewQVs,Now What,thom.ko,0.731,0.625,0.82,88.991,[],163800,False,1,-4.391,1,0.0404,0.759,0.0,0.109,Sad
+3RIgHHpnFKj5Rni1shokDj,Norman fucking Rockwell,Lana Del Rey,0.143,0.203,0.215,78.287,"['art pop', 'pop']",248934,True,5,-12.65,1,0.0346,0.968,0.0585,0.0923,Sad
+37y7iDayfwm3WXn5BiAoRk,Dark Red,Steve Lacy,0.775,0.783,0.603,172.041,['afrofuturism'],173104,False,6,-4.023,1,0.062,0.449,7.96e-06,0.119,Sad
+5isDcWQsvpufU4FAVadU9I,Twentynine Palms,Austin Harms,0.393,0.333,0.445,137.959,[],212027,False,5,-11.308,1,0.0334,0.526,0.00168,0.143,Sad
+3V0nnQhqvbE3JmiDdnzQFQ,July (feat. Leon Bridges),Noah Cyrus,0.362,0.211,0.708,72.5,"['alt z', 'pop']",152280,False,9,-9.603,0,0.0424,0.853,0.0,0.131,Sad
+3SM7uIYEz3v3BGy9RHp7oU,In My Room,Chance Peña,0.1,0.338,0.408,133.943,['singer-songwriter pop'],177609,False,4,-13.626,1,0.0431,0.521,0.000639,0.0732,Sad
+61A6xQ3QR3ruesfTt6bg4U,Moonlight Mercy,Liush,0.312,0.0754,0.546,94.663,[],244993,False,6,-20.151,1,0.0304,0.934,0.371,0.0875,Sad
+1BYZxKSf0aTxp8ZFoeyM3d,we fell in love in october,girl in red,0.237,0.366,0.566,129.959,"['bedroom pop', 'indie pop', 'norwegian indie', 'pov: indie']",184154,False,7,-12.808,1,0.028,0.113,0.181,0.155,Sad
+135Lf4Q0CzlMNfOxbEUsLH,Ghost Town,Benson Boone,0.116,0.335,0.391,174.185,['singer-songwriter pop'],193733,False,0,-10.064,1,0.0763,0.389,0.0,0.102,Sad
+2vHXbnEbxN41ALWNX7k7i7,I Just Died In Your Arms,Skinny Dippers,0.737,0.846,0.61,118.013,[],183051,False,3,-7.607,0,0.0399,0.112,3.7e-06,0.493,Sad
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,Olivia Rodrigo,0.132,0.436,0.585,143.874,['pop'],242014,True,10,-8.761,1,0.0601,0.721,1.31e-05,0.105,Sad
+5kcvBnt6DPX3AMEsCx1qDh,Happiest Year,Jaymes Young,0.356,0.167,0.501,112.275,[],228443,False,1,-14.061,1,0.0484,0.885,0.0,0.111,Sad
+4wOpQBSTtbh9S86nxp0EJ1,Sunlight,thom.ko,0.374,0.424,0.55,67.471,[],182240,False,9,-7.556,0,0.0357,0.321,0.0192,0.123,Sad
+0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,0.13,0.366,0.604,141.981,"['british soul', 'pop', 'pop soul', 'uk pop']",224695,False,5,-7.519,1,0.0282,0.578,0.0,0.133,Sad
+3CboywxfJIgvHqi2FF4exb,Loverboy,A-Wall,0.499,0.466,0.604,120.045,['bedroom pop'],224520,False,0,-10.093,1,0.0315,0.649,0.0334,0.093,Sad
+1I4wRSEnqLRMTsqKR4bbxh,Burn Our Bridges Down,RIELL,0.177,0.53,0.636,117.983,['dark r&b'],213993,False,5,-5.629,0,0.0351,0.392,0.0,0.113,Sad
+3GVkPk8mqxz0itaAriG1L7,Everybody Dies In Their Nightmares,XXXTENTACION,0.689,0.57,0.734,129.953,"['emo rap', 'miami hip hop', 'rap']",95467,True,7,-7.066,0,0.133,0.847,2.14e-05,0.112,Sad
+0PKAijroHpnEtdY20bkGdr,ghost town (voice memo),Chloe George,0.358,0.229,0.471,68.41,[],137250,False,8,-6.504,1,0.0358,0.953,0.0,0.0909,Sad
+4iA8OM01edxYtdkrQ4vZM2,Bad Friend,INTRN,0.67,0.213,0.659,72.457,['lo-fi chill'],182069,False,0,-12.995,1,0.0431,0.898,0.0,0.169,Sad
+6fhG2KJgwO7CrNflRaRmvp,Dandelions - slowed + reverb,Ruth B.,0.222,0.709,0.33,101.673,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",268717,False,8,-3.332,0,0.0312,0.0411,0.0,0.0896,Sad
+4S1T0kYOmevSYAknYWD9Yn,Aesthetic,Devonte Mayo,0.71,0.584,0.686,169.581,[],208692,True,0,-12.122,1,0.48,0.885,7.47e-05,0.278,Sad
+4N525F62am9WXdYf7h8ZXm,Sea of Love,Animal House,0.218,0.249,0.672,80.894,['brighton indie'],123013,False,9,-12.033,1,0.0259,0.362,0.00291,0.0814,Sad
+2nC3QhMI9reBIOWutbU3Tj,Moral of the Story,Ashe,0.265,0.406,0.572,119.812,['alt z'],201084,True,10,-8.624,1,0.0427,0.587,4.48e-06,0.102,Sad
+3S8jK1mGzQi24ilFb45DAZ,Lonely (with benny blanco),Justin Bieber,0.0719,0.241,0.619,79.461,"['canadian pop', 'pop']",149190,True,11,-7.102,0,0.046,0.9,0.0,0.116,Sad
+3thbPeqVwBS3ma8U4Ngs5P,Whiplash,LEFT.,0.732,0.646,0.506,97.162,[],150471,False,4,-8.58,1,0.359,0.0816,0.0,0.0998,Sad
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,0.198,0.111,0.367,82.642,"['art pop', 'pop']",196077,False,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,Sad
+0rKtyWc8bvkriBthvHKY8d,SLOW DANCING IN THE DARK,Joji,0.284,0.479,0.515,88.964,['viral pop'],209274,True,3,-7.458,1,0.0261,0.544,0.00598,0.191,Sad
+34P8aaDSBSuF8dboA1KgxO,serotonin,kikomori,0.305,0.452,0.708,85.998,[],191000,True,2,-13.432,1,0.136,0.708,0.584,0.263,Sad
+0L09BhquyZmuHSdKc010gd,forsaken,Paris Paloma,0.173,0.156,0.52,141.835,['singer-songwriter pop'],207307,False,4,-12.867,1,0.0348,0.948,0.000221,0.911,Sad
+5dPz35akJjPqb17yeqNwqH,Ghost,Justin Bieber,0.473,0.741,0.604,153.947,"['canadian pop', 'pop']",153190,False,2,-5.571,1,0.0475,0.178,3.49e-05,0.409,Sad
+3XC70fONCTv5t7UYGEFsVS,Hurt,RIELL,0.119,0.334,0.559,110.053,['dark r&b'],165818,False,0,-8.047,1,0.0308,0.774,4.02e-05,0.116,Sad
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Lewis Capaldi,0.361,0.308,0.736,111.202,"['pop', 'uk pop']",220492,False,4,-7.83,1,0.0677,0.946,0.0,0.186,Sad
+2TOzTqQXNmR2zDJXihjZ2e,enough for you,Olivia Rodrigo,0.269,0.259,0.638,88.485,['pop'],202827,False,7,-10.706,1,0.0898,0.753,0.0,0.219,Sad
+5Yyt1mlEq4McET3sxfsjyw,omw,Adriel Rivera,0.291,0.403,0.784,120.032,[],164380,False,6,-11.839,1,0.0421,0.28,0.00679,0.108,Sad
+73M0rMVx5CWE8M4uATSsto,seaside_demo,SEB,0.86,0.824,0.706,94.98,[],132000,False,0,-7.959,1,0.0694,0.355,0.000133,0.111,Sad
+1nYzjrdVQ8RpF93M0jPFW7,Remember That Night?,Sara Kays,0.554,0.61,0.679,123.978,"['alt z', 'gen z singer-songwriter', 'modern indie pop']",227186,False,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,Sad
+5RkhZf6mS0iWzsOZXQEUfL,Masterpiece,Liush,0.147,0.219,0.516,140.222,[],192059,False,5,-11.074,1,0.0855,0.813,9.59e-06,0.363,Sad
+47EWMOElkkbMp5m9SBkx7d,IDK You Yet,Alexander 23,0.191,0.306,0.629,76.994,"['alt z', 'singer-songwriter pop']",184638,False,1,-11.735,1,0.0424,0.884,0.0776,0.124,Sad
+2qLyo5FeWquE7HBUbcVnEy,emails i can’t send,Sabrina Carpenter,0.408,0.387,0.515,86.313,['pop'],104408,True,7,-10.614,1,0.192,0.757,0.0,0.622,Sad
+6CoC7nWbj6JiebN7IbJ0Z8,Same Old Mess,INTRN,0.678,0.177,0.64,90.081,['lo-fi chill'],120000,False,2,-14.649,1,0.0298,0.906,0.00329,0.134,Sad
+4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,0.297,0.225,0.332,81.055,"['art pop', 'pop']",298899,True,0,-8.697,1,0.0348,0.767,0.00349,0.128,Sad
+5MG69A9XyXDbBbeOxdR3Tl,don't miss me,Claire Rosinkranz,0.818,0.727,0.796,104.98,"['alt z', 'modern indie pop']",123950,True,1,-4.726,1,0.04,0.793,2.49e-05,0.0858,Sad
+1jVbZbgm1j5vCIgsLaCts4,"if you need to, keep time on me",Liush,0.143,0.0879,0.22,164.578,[],212700,False,11,-19.441,1,0.0434,0.942,0.279,0.0761,Sad
+3d8y0t70g7hw2FOWl9Z4Fm,Ophelia,The Lumineers,0.566,0.573,0.664,76.02,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",160097,False,5,-6.519,1,0.0277,0.613,0.000363,0.0857,Sad
+7B3z0ySL9Rr0XvZEAjWZzM,Sofia,Clairo,0.641,0.619,0.744,112.997,"['bedroom pop', 'indie pop', 'pov: indie']",188387,False,0,-9.805,1,0.039,0.598,0.00372,0.231,Sad
+6oEVnWKgPqIEPc53OYDNqG,Could've Been (feat. Bryson Tiller),H.E.R.,0.408,0.352,0.45,102.679,"['r&b', 'rap']",252747,False,1,-11.733,0,0.267,0.649,3.8e-06,0.249,Sad
+0Ms3qpsrYRmezC2CZLisXZ,Let Me Know,LEFT.,0.963,0.579,0.691,165.12,[],163652,False,2,-4.674,1,0.0509,0.368,2.63e-05,0.333,Sad
+3EPXxR3ImUwfayaurPi3cm,Be Alright,Dean Lewis,0.443,0.586,0.553,126.684,"['australian pop', 'pop']",196373,True,11,-6.319,1,0.0362,0.697,0.0,0.0813,Sad
+6potEImiklXkwD9qFzpu15,Forever,Labrinth,0.197,0.459,0.563,79.983,"['indie poptimism', 'pop']",202536,False,4,-7.781,0,0.0292,0.92,0.724,0.11,Sad
+2F1ha0lmHe74s96sN0mIhk,Turning Time,Spritely,0.368,0.618,0.634,118.88,['acoustic chill'],192928,False,0,-7.006,0,0.0503,0.0583,0.0,0.226,Sad
+2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,Alec Benjamin,0.483,0.557,0.652,150.073,"['alt z', 'pop', 'pov: indie']",169354,False,1,-5.714,0,0.0318,0.74,0.0,0.124,Sad
+55Am8neGJkdj2ADaM3aw5H,Train Wreck,James Arthur,0.225,0.485,0.311,77.355,"['pop', 'talent show', 'uk pop']",208827,False,6,-5.726,0,0.0365,0.701,0.0,0.0726,Sad
+5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,0.479,0.417,0.464,67.528,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",183956,False,0,-9.345,0,0.0256,0.136,0.022,0.0974,Romantic
+3QJsSWa0Xo8MfaRn1gr4Be,favorite,Isabel LaRosa,0.625,0.652,0.726,97.032,"['hyperpop', 'sped up']",133608,False,10,-5.328,0,0.0779,0.00323,0.003,0.0905,Romantic
+7BqBn9nzAq8spo5e7cZ0dJ,Just the Way You Are,Bruno Mars,0.424,0.841,0.635,109.021,"['dance pop', 'pop']",220734,False,5,-5.379,1,0.0422,0.0134,0.0,0.0622,Romantic
+0tgVpDi06FyKpA1z0VMD4v,Perfect,Ed Sheeran,0.168,0.448,0.599,95.05,"['pop', 'singer-songwriter pop', 'uk pop']",263400,False,8,-6.312,1,0.0232,0.163,0.0,0.106,Romantic
+4OyzSXRSadNQt5EMwASdap,Todo Cambió,Camila,0.363,0.523,0.452,173.85,"['latin arena pop', 'latin pop']",193827,False,5,-6.453,1,0.0625,0.563,0.0,0.233,Romantic
+0xXhgLXfEHnWJHVgRvFvdn,Creo en Ti,Reik,0.432,0.267,0.422,171.725,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton']",163333,False,3,-9.533,1,0.0281,0.86,0.0,0.142,Romantic
+3U4isOIWM3VvDubwSI3y7a,All of Me,John Legend,0.331,0.264,0.422,119.93,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",269560,False,8,-7.064,1,0.0322,0.922,0.0,0.132,Romantic
+1iRvhKiXRElIH2Uf4gd95P,Dueles,Jesse & Joy,0.526,0.834,0.531,142.026,"['latin arena pop', 'latin pop', 'mexican pop']",247640,False,2,-3.944,1,0.052,0.277,0.0,0.131,Romantic
+072YgF7J2clpY8DsWOpEri,Mientes Tan Bien,Sin Bandera,0.486,0.188,0.607,135.896,"['latin arena pop', 'latin pop', 'mexican pop']",227613,False,7,-15.084,1,0.0326,0.895,1.79e-06,0.109,Romantic
+0CjaLvAqN97KPVWgOJ1vbD,Dónde está el amor (feat. Jesse & Joy),Pablo Alborán,0.324,0.848,0.597,139.876,"['latin arena pop', 'latin pop', 'spanish pop']",233896,False,4,-5.458,1,0.0406,0.173,0.0,0.373,Romantic
+29csiYMOfBmLmGwxmISrMy,Fuiste Tú (feat. Gaby Moreno),Ricardo Arjona,0.267,0.672,0.591,139.939,"['cantautor', 'latin arena pop', 'latin pop']",265307,False,5,-3.515,1,0.0375,0.622,0.0,0.112,Romantic
+4NUt1fcnO9aQAELBgXq3Kr,Me Dediqué a Perderte,Alejandro Fernández,0.465,0.442,0.642,148.01,"['latin arena pop', 'latin pop', 'mariachi', 'mexican pop', 'musica mexicana', 'ranchera']",231773,False,8,-9.115,1,0.074,0.491,1.58e-06,0.102,Romantic
+3IPJg1sdqLj12kFIndaonN,No Hay Nadie Más,Sebastian Yatra,0.805,0.379,0.695,105.057,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",199733,False,6,-9.147,1,0.034,0.858,0.0,0.106,Romantic
+5OKrgU6UuGMp4sGRxv1JH2,Dígale,David Bisbal,0.299,0.474,0.57,130.103,"['latin arena pop', 'latin pop', 'spanish pop rock']",262440,False,2,-6.809,1,0.0296,0.595,0.0,0.143,Romantic
+66iygyOSvvoQQsKJ1vEXfT,Tú de Qué Vas,Franco De Vita,0.567,0.629,0.607,80.11,"['latin arena pop', 'latin pop']",238160,False,11,-5.931,1,0.0316,0.405,0.0,0.203,Romantic
+15AbuFJdFrbINydSMSqVhV,Aléjate de Mí,Camila,0.252,0.536,0.464,145.772,"['latin arena pop', 'latin pop']",258533,False,1,-8.372,0,0.0472,0.159,0.0,0.0969,Romantic
+2425UlXvkIkAEJAtAd8ROm,Aunque no te pueda ver,Alex Ubago,0.205,0.457,0.594,117.989,"['latin arena pop', 'latin pop', 'spanish pop', 'spanish pop rock']",266667,False,4,-8.673,1,0.0303,0.612,0.0,0.1,Romantic
+0lPXFrKyl8HkdQ2E6NmNja,Ya Me Enteré,Reik,0.174,0.452,0.619,131.981,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton']",204173,False,9,-5.449,1,0.028,0.502,0.0,0.122,Romantic
+6kQYMqjobmB8MkWwa9OUyA,Amiga mía,Alejandro Sanz,0.402,0.703,0.629,144.016,"['cantautor', 'latin arena pop', 'latin pop', 'mexican pop']",290973,False,2,-4.875,1,0.0504,0.519,0.0,0.11,Romantic
+28UMiBhn383n9S7GL4tsxD,"Because You Loved Me (Theme from ""Up Close and Personal"")",Céline Dion,0.177,0.467,0.615,119.919,['canadian pop'],273667,False,1,-9.883,1,0.0327,0.314,0.0,0.099,Romantic
+7sRXhReWmJF5pqyg3uUTES,Solamente tú,Pablo Alborán,0.266,0.419,0.519,140.033,"['latin arena pop', 'latin pop', 'spanish pop']",247187,False,9,-6.276,1,0.033,0.457,0.0,0.161,Romantic
+5EhzE6HJaCcLFrf5rPqvpk,Mientes,Camila,0.31,0.592,0.332,170.391,"['latin arena pop', 'latin pop']",205160,False,1,-6.127,1,0.0371,0.0824,0.0,0.109,Romantic
+6HTBhdYFWi1wIGbm7dV7iV,La Pareja Ideal,Marisela,0.52,0.249,0.625,143.44,"['latin pop', 'ranchera']",213507,False,4,-17.53,1,0.0399,0.623,1.1e-06,0.083,Romantic
+3w6HBymB6v99gmhz4aiX1g,Para Siempre,Kany García,0.399,0.478,0.725,80.127,"['latin pop', 'puerto rican pop']",201600,False,9,-6.814,1,0.0752,0.866,0.0,0.105,Romantic
+350kyj3PwTFlQMOpWzRd3O,Volveré,Diego Verdaguer,0.455,0.417,0.5,120.067,"['grupera', 'latin pop', 'ranchera']",242253,False,7,-11.239,1,0.0325,0.871,1.71e-05,0.232,Romantic
+6vPAmoERUMRoTZaCCSWQ12,Hasta Que Me Olvides,Luis Miguel,0.437,0.593,0.641,119.828,"['bolero', 'latin pop']",281000,False,3,-7.884,1,0.0264,0.46,0.0,0.169,Romantic
+6lanRgr6wXibZr8KgzXxBl,a thousand years,Christina Perri,0.161,0.407,0.421,139.028,['pop'],285120,False,10,-7.445,1,0.0267,0.309,0.000961,0.11,Romantic
+78dbqYDvx6FOefROApu9w0,Inevitable,Shakira,0.338,0.461,0.595,91.976,"['colombian pop', 'dance pop', 'latin pop', 'pop']",192867,False,6,-7.786,1,0.0641,0.269,0.000149,0.123,Romantic
+4eHbdreAnSOrDDsFfc4Fpm,I Will Always Love You,Whitney Houston,0.11,0.214,0.332,67.531,"['dance pop', 'pop']",271093,False,4,-12.518,1,0.0349,0.845,5.62e-06,0.0839,Romantic
+2h0iSG7htO0V4IvuwbTBf3,Entra en Mi Vida,Sin Bandera,0.31,0.372,0.678,138.006,"['latin arena pop', 'latin pop', 'mexican pop']",248760,False,0,-8.116,1,0.0313,0.599,0.0,0.0939,Romantic
+5NSJ0qoxwbO26tVvqpL4N2,Un Siglo Sin Ti,Chayanne,0.261,0.674,0.611,133.906,"['latin pop', 'puerto rican pop']",281027,False,7,-6.143,0,0.0279,0.0961,0.0,0.129,Romantic
+0GNWo2IgoBKdk10gdnaSVk,Sólo para Ti,Camila,0.209,0.361,0.317,77.589,"['latin arena pop', 'latin pop']",182520,False,8,-7.628,1,0.0483,0.0742,0.0,0.102,Romantic
+2cSXotAohYx0EWCNljCzs7,Otra Como Tu,Eros Ramazzotti,0.498,0.577,0.531,177.67,"['italian adult pop', 'mexican pop']",281227,False,1,-9.363,1,0.0315,0.117,1.25e-05,0.0896,Romantic
+609SDGj0txmlAXRrpwee9Y,Llegaste Tú,Luis Fonsi,0.517,0.529,0.768,119.953,"['latin pop', 'puerto rican pop']",221947,False,1,-6.758,1,0.0405,0.79,0.0,0.2,Romantic
+62clthR0fZmLbxeqxVJatQ,Que Lloro,Sin Bandera,0.323,0.415,0.593,139.948,"['latin arena pop', 'latin pop', 'mexican pop']",240613,False,9,-9.774,1,0.03,0.754,4.86e-06,0.117,Romantic
+3fJHbMUnzceimOnNjp63fF,Primera Cita,Carin Leon,0.491,0.396,0.536,157.846,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",186456,False,10,-7.804,1,0.0687,0.604,6.97e-05,0.0969,Romantic
+4LFwNJWoj74Yd71fIr1W8x,Right Here Waiting,Richard Marx,0.126,0.252,0.395,177.679,"['new wave pop', 'soft rock']",264333,False,0,-13.589,1,0.0301,0.8,0.0,0.101,Romantic
+2DjWsDGgL1xNbhnr7f6t5F,Baby Can I Hold You,Tracy Chapman,0.468,0.422,0.692,74.375,"['folk', 'lilith', 'singer-songwriter', ""women's music""]",193120,False,2,-10.533,1,0.0333,0.0811,0.0,0.0848,Romantic
+4lerOTNr2tFWJCAmmhymhi,No Me Doy Por Vencido,Luis Fonsi,0.407,0.663,0.31,172.768,"['latin pop', 'puerto rican pop']",239400,False,3,-6.075,1,0.101,0.44,0.0,0.609,Romantic
+2bvO1KXbUd4vySCWGNqIIa,Por Amarte Así,Cristian Castro,0.322,0.637,0.61,128.863,"['latin arena pop', 'latin pop']",272200,False,1,-5.881,1,0.027,0.61,0.0,0.0952,Romantic
+37miw1ff4zH0LDuFrBvZ4i,Sabes,Reik,0.217,0.46,0.597,144.001,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton']",219939,False,3,-6.941,1,0.0251,0.537,0.0,0.127,Romantic
+1GeNWyZtCHbcp3ZWp8GTOO,The Lady In Red,Chris de Burgh,0.491,0.294,0.548,76.698,"['new wave pop', 'soft rock']",256173,False,10,-17.112,1,0.0333,0.332,3.34e-06,0.0392,Romantic
+2sMxswHr9wX7kTUHULvJBJ,Destino o casualidad,Melendi,0.362,0.525,0.557,153.247,"['spanish pop', 'spanish pop rock']",258504,False,2,-6.324,1,0.149,0.524,0.0,0.113,Romantic
+2G74yhtIMW8tJY5I83dS4Z,Amor del Bueno,Reyli Barba,0.293,0.373,0.77,131.975,"['latin pop', 'mexican pop']",242027,False,1,-6.931,1,0.0328,0.317,0.0,0.217,Romantic
+0bK3jxkbq5cDKWr68KtO8G,Una y Otra Vez,Manuel Medrano,0.376,0.481,0.42,82.112,['colombian pop'],190606,False,4,-8.284,1,0.027,0.276,1.55e-06,0.345,Romantic
+2GSr8anleCXKLNjjjijoMZ,Yo Quisiera,Reik,0.784,0.658,0.682,77.978,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton']",217987,False,2,-5.251,1,0.0432,0.0823,0.0,0.0851,Romantic
+5EbtodsuLbxrFDH6j5avVS,El Mismo Aire - con Pablo Alborán,Camilo,0.66,0.492,0.483,144.511,"['colombian pop', 'latin pop', 'latin viral pop', 'reggaeton colombiano']",188213,False,0,-6.591,0,0.295,0.603,0.0,0.323,Romantic
+6HPLeKiNm92RbykX2BDTUB,Stuck On You,Lionel Richie,0.247,0.317,0.509,131.783,"['disco', 'soft rock']",192067,False,5,-16.063,1,0.0305,0.621,5.28e-05,0.0878,Romantic
+0WFatRyMXS4JVP9jSfO1Fe,Me Llamas,José Luis Perales,0.76,0.684,0.711,124.851,"['cancion melodica', 'latin pop', 'ranchera']",275067,False,2,-7.186,1,0.0286,0.256,0.000264,0.304,Romantic
+2DAsLftcRKP3iarCPmI1RY,No Sé Tú,Luis Miguel,0.0888,0.443,0.389,76.54,"['bolero', 'latin pop']",229853,False,10,-8.546,0,0.0304,0.571,0.00178,0.114,Romantic
